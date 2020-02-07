@@ -1,0 +1,15 @@
+SEED 1
+itime 2
+ftime 3
+arrmin 4
+arrmax 5
+quit 0.6
+netprob 0.7
+cpumin 8
+cpumax 9
+disk1min 10
+disk1max 11
+disk2min 12
+disk2max 13
+networkmin 14
+networkmax 15
