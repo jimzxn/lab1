@@ -2,21 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-int SEED=0;
-int itime=0;
-int ftime=0;
-int arrmin=0;
-int arrmax=0;
-double quit=0.0;
-double netprob=0.0;
-int cpumin=0;
-int cpumax=0;
-int disk1min=0;
-int disk1max=0;
-int disk2min=0;
-int disk2max=0;
-int networkmin=0;
-int networkmax=0;
+int SEED=0,itime=0,ftime=0,arrmin=0,arrmax=0,cpumin=0,cpumax=0,disk1min=0,disk1max=0;
+double quit=0.0,netprob=0.0;
+int disk2min=0,disk2max=0,networkmin=0,networkmax=0;
+
 
 int readfile()
 {

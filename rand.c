@@ -38,7 +38,10 @@ int probedinexit(){
         return 2;//disk
     } 
 }
-
+int jobrand(){
+    int out=rand()%(arrmax-arrmin);
+    return out+arrmin;
+}
 int cpurand(){
     int out=rand()%(cpumax-cpumin);
     return out+cpumin;
