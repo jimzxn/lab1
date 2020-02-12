@@ -1,0 +1,4043 @@
+at time: 0, job 1 arrival in the system
+at time: 0, job 1 arrival cpu
+at time: 3, job 1 exit the cpu
+at time: 3, job 1 arrvial the disk1
+at time: 13, job 2 arrival in the system
+at time: 13, job 2 arrival cpu
+at time: 17, job 2 exit the cpu
+at time: 17, job 2 arrvial the disk2
+at time: 36, job 3 arrival in the system
+at time: 36, job 3 arrival cpu
+at time: 38, job 3 exit the cpu
+at time: 48, job 1 exit the disk1
+at time: 48, job 1 arrival cpu
+at time: 49, job 2 arr the disk2
+at time: 49, job 2 arrival cpu
+at time: 49, job 3 arrvial the disk2
+at time: 52, job 1 exit the cpu
+at time: 52, job 2 exit the cpu
+at time: 52, job 2 exit the system
+at time: 52, job 1 arrvial the disk1
+at time: 55, job 4 arrival in the system
+at time: 55, job 4 arrival cpu
+at time: 56, job 4 exit the cpu
+at time: 56, job 4 arrival the net
+at time: 71, job 5 arrival in the system
+at time: 71, job 5 arrival cpu
+at time: 72, job 1 exit the disk1
+at time: 72, job 1 arrival cpu
+at time: 74, job 1 exit the cpu
+at time: 74, job 1 arrvial the disk1
+at time: 75, job 5 exit the cpu
+at time: 88, job 3 arr the disk2
+at time: 88, job 3 arrival cpu
+at time: 88, job 3 arrvial the disk2
+at time: 89, job 6 arrival in the system
+at time: 92, job 3 exit the cpu
+at time: 92, job 3 exit the system
+at time: 92, job 6 arrival cpu
+at time: 95, job 6 exit the cpu
+at time: 95, job 6 exit the system
+at time: 114, job 1 exit the disk1
+at time: 114, job 7 arrival in the system
+at time: 114, job 1 arrival cpu
+at time: 115, job 3 arr the disk2
+at time: 116, job 1 exit the cpu
+at time: 116, job 6 arrival cpu
+at time: 116, job 1 arrvial the disk1
+at time: 118, job 6 exit the cpu
+at time: 118, job 6 exit the system
+at time: 118, job 7 arrival cpu
+at time: 121, job 7 exit the cpu
+at time: 121, job 7 exit the system
+at time: 142, job 8 arrival in the system
+at time: 142, job 8 arrival cpu
+at time: 144, job 8 exit the cpu
+at time: 144, job 8 exit the system
+at time: 152, job 1 exit the disk1
+at time: 152, job 1 arrival cpu
+at time: 153, job 1 exit the cpu
+at time: 165, job 9 arrival in the system
+at time: 165, job 9 arrival cpu
+at time: 166, job 9 exit the cpu
+at time: 166, job 9 exit the system
+at time: 193, job 10 arrival in the system
+at time: 193, job 10 arrival cpu
+at time: 195, job 10 exit the cpu
+at time: 195, job 10 exit the system
+at time: 213, job 11 arrival in the system
+at time: 213, job 11 arrival cpu
+at time: 214, job 11 exit the cpu
+at time: 214, job 11 arrvial the disk1
+at time: 234, job 12 arrival in the system
+at time: 234, job 12 arrival cpu
+at time: 237, job 11 exit the disk1
+at time: 237, job 12 exit the cpu
+at time: 237, job 11 arrival cpu
+at time: 237, job 12 arrvial the disk1
+at time: 239, job 11 exit the cpu
+at time: 239, job 11 exit the system
+at time: 246, job 13 arrival in the system
+at time: 246, job 13 arrival cpu
+at time: 250, job 13 exit the cpu
+at time: 260, job 14 arrival in the system
+at time: 260, job 14 arrival cpu
+at time: 263, job 14 exit the cpu
+at time: 263, job 14 exit the system
+at time: 267, job 4 exit the network
+at time: 267, job 4 arrival cpu
+at time: 267, job 1 arrival the net
+at time: 269, job 4 exit the cpu
+at time: 269, job 4 exit the system
+at time: 272, job 12 exit the disk1
+at time: 272, job 12 arrival cpu
+at time: 275, job 15 arrival in the system
+at time: 276, job 12 exit the cpu
+at time: 276, job 3 arrival cpu
+at time: 279, job 3 exit the cpu
+at time: 279, job 3 arrvial the disk1
+at time: 287, job 16 arrival in the system
+at time: 287, job 16 arrival cpu
+at time: 291, job 16 exit the cpu
+at time: 291, job 16 arrvial the disk2
+at time: 301, job 17 arrival in the system
+at time: 301, job 17 arrival cpu
+at time: 302, job 17 exit the cpu
+at time: 313, job 3 exit the disk1
+at time: 313, job 3 arrival cpu
+at time: 314, job 3 exit the cpu
+at time: 314, job 3 arrvial the disk1
+at time: 318, job 16 arr the disk2
+at time: 318, job 16 arrival cpu
+at time: 318, job 5 arrvial the disk2
+at time: 319, job 18 arrival in the system
+at time: 322, job 16 exit the cpu
+at time: 322, job 3 arrival cpu
+at time: 323, job 3 exit the cpu
+at time: 337, job 3 exit the disk1
+at time: 337, job 3 arrival cpu
+at time: 338, job 3 exit the cpu
+at time: 348, job 19 arrival in the system
+at time: 348, job 19 arrival cpu
+at time: 351, job 19 exit the cpu
+at time: 351, job 19 arrvial the disk1
+at time: 352, job 5 arr the disk2
+at time: 352, job 5 arrival cpu
+at time: 352, job 5 arrvial the disk2
+at time: 356, job 5 exit the cpu
+at time: 370, job 20 arrival in the system
+at time: 370, job 20 arrival cpu
+at time: 373, job 20 exit the cpu
+at time: 387, job 5 arr the disk2
+at time: 387, job 5 arrival cpu
+at time: 387, job 17 arrvial the disk2
+at time: 389, job 5 exit the cpu
+at time: 389, job 5 exit the system
+at time: 394, job 21 arrival in the system
+at time: 394, job 21 arrival cpu
+at time: 395, job 19 exit the disk1
+at time: 395, job 21 exit the cpu
+at time: 395, job 19 arrival cpu
+at time: 395, job 20 arrvial the disk1
+at time: 396, job 19 exit the cpu
+at time: 416, job 20 exit the disk1
+at time: 416, job 20 arrival cpu
+at time: 416, job 20 arrvial the disk1
+at time: 419, job 20 exit the cpu
+at time: 421, job 22 arrival in the system
+at time: 421, job 22 arrival cpu
+at time: 422, job 22 exit the cpu
+at time: 422, job 22 exit the system
+at time: 424, job 17 arr the disk2
+at time: 424, job 17 arrival cpu
+at time: 424, job 17 arrvial the disk2
+at time: 425, job 17 exit the cpu
+at time: 437, job 20 exit the disk1
+at time: 437, job 20 arrival cpu
+at time: 437, job 19 arrvial the disk1
+at time: 439, job 20 exit the cpu
+at time: 440, job 23 arrival in the system
+at time: 440, job 23 arrival cpu
+at time: 444, job 23 exit the cpu
+at time: 444, job 23 exit the system
+at time: 451, job 24 arrival in the system
+at time: 451, job 24 arrival cpu
+at time: 453, job 17 arr the disk2
+at time: 453, job 17 arrival cpu
+at time: 453, job 3 arrvial the disk2
+at time: 454, job 17 exit the cpu
+at time: 455, job 24 exit the cpu
+at time: 468, job 25 arrival in the system
+at time: 468, job 25 arrival cpu
+at time: 471, job 25 exit the cpu
+at time: 483, job 26 arrival in the system
+at time: 483, job 26 arrival cpu
+at time: 484, job 19 exit the disk1
+at time: 484, job 26 exit the cpu
+at time: 484, job 26 exit the system
+at time: 484, job 19 arrival cpu
+at time: 484, job 19 arrvial the disk1
+at time: 488, job 19 exit the cpu
+at time: 488, job 19 exit the system
+at time: 490, job 3 arr the disk2
+at time: 490, job 3 arrival cpu
+at time: 490, job 3 arrvial the disk2
+at time: 494, job 3 exit the cpu
+at time: 506, job 19 exit the disk1
+at time: 506, job 19 arrival cpu
+at time: 506, job 20 arrvial the disk1
+at time: 507, job 19 exit the cpu
+at time: 507, job 19 exit the system
+at time: 512, job 27 arrival in the system
+at time: 512, job 27 arrival cpu
+at time: 514, job 27 exit the cpu
+at time: 522, job 28 arrival in the system
+at time: 522, job 28 arrival cpu
+at time: 525, job 28 exit the cpu
+at time: 535, job 29 arrival in the system
+at time: 535, job 29 arrival cpu
+at time: 539, job 3 arr the disk2
+at time: 539, job 29 exit the cpu
+at time: 539, job 29 exit the system
+at time: 539, job 3 arrival cpu
+at time: 539, job 5 arrvial the disk2
+at time: 543, job 3 exit the cpu
+at time: 551, job 30 arrival in the system
+at time: 551, job 30 arrival cpu
+at time: 552, job 30 exit the cpu
+at time: 554, job 20 exit the disk1
+at time: 554, job 20 arrival cpu
+at time: 554, job 20 arrvial the disk1
+at time: 557, job 20 exit the cpu
+at time: 557, job 20 exit the system
+at time: 565, job 31 arrival in the system
+at time: 565, job 31 arrival cpu
+at time: 566, job 31 exit the cpu
+at time: 566, job 31 exit the system
+at time: 587, job 20 exit the disk1
+at time: 587, job 20 arrival cpu
+at time: 588, job 5 arr the disk2
+at time: 588, job 5 arrival cpu
+at time: 588, job 5 arrvial the disk2
+at time: 589, job 32 arrival in the system
+at time: 590, job 20 exit the cpu
+at time: 590, job 3 arrival cpu
+at time: 590, job 20 arrvial the disk1
+at time: 592, job 5 exit the cpu
+at time: 594, job 3 exit the cpu
+at time: 602, job 33 arrival in the system
+at time: 602, job 33 arrival cpu
+at time: 606, job 33 exit the cpu
+at time: 624, job 34 arrival in the system
+at time: 624, job 34 arrival cpu
+at time: 628, job 34 exit the cpu
+at time: 628, job 34 exit the system
+at time: 634, job 5 arr the disk2
+at time: 634, job 5 arrival cpu
+at time: 634, job 21 arrvial the disk2
+at time: 635, job 20 exit the disk1
+at time: 635, job 20 arrival cpu
+at time: 637, job 5 exit the cpu
+at time: 637, job 5 arrvial the disk1
+at time: 638, job 20 exit the cpu
+at time: 642, job 35 arrival in the system
+at time: 642, job 35 arrival cpu
+at time: 644, job 35 exit the cpu
+at time: 644, job 35 exit the system
+at time: 655, job 21 arr the disk2
+at time: 655, job 21 arrival cpu
+at time: 656, job 21 exit the cpu
+at time: 667, job 36 arrival in the system
+at time: 667, job 36 arrival cpu
+at time: 668, job 36 exit the cpu
+at time: 668, job 36 exit the system
+at time: 686, job 5 exit the disk1
+at time: 686, job 5 arrival cpu
+at time: 687, job 5 exit the cpu
+at time: 687, job 5 exit the system
+at time: 688, job 37 arrival in the system
+at time: 688, job 37 arrival cpu
+at time: 692, job 37 exit the cpu
+at time: 692, job 37 exit the system
+at time: 701, job 38 arrival in the system
+at time: 701, job 38 arrival cpu
+at time: 704, job 38 exit the cpu
+at time: 724, job 1 exit the network
+at time: 724, job 1 arrival cpu
+at time: 724, job 13 arrival the net
+at time: 725, job 1 exit the cpu
+at time: 725, job 1 exit the system
+at time: 729, job 39 arrival in the system
+at time: 729, job 39 arrival cpu
+at time: 731, job 39 exit the cpu
+at time: 731, job 39 exit the system
+at time: 747, job 40 arrival in the system
+at time: 747, job 40 arrival cpu
+at time: 748, job 40 exit the cpu
+at time: 748, job 40 exit the system
+at time: 774, job 41 arrival in the system
+at time: 774, job 41 arrival cpu
+at time: 777, job 41 exit the cpu
+at time: 777, job 41 arrvial the disk1
+at time: 787, job 42 arrival in the system
+at time: 787, job 42 arrival cpu
+at time: 788, job 42 exit the cpu
+at time: 788, job 42 exit the system
+at time: 816, job 43 arrival in the system
+at time: 816, job 43 arrival cpu
+at time: 817, job 41 exit the disk1
+at time: 817, job 41 arrival cpu
+at time: 819, job 43 exit the cpu
+at time: 819, job 41 exit the cpu
+at time: 819, job 41 arrvial the disk1
+at time: 830, job 44 arrival in the system
+at time: 830, job 44 arrival cpu
+at time: 833, job 44 exit the cpu
+at time: 849, job 45 arrival in the system
+at time: 849, job 45 arrival cpu
+at time: 851, job 45 exit the cpu
+at time: 851, job 45 exit the system
+at time: 855, job 41 exit the disk1
+at time: 855, job 41 arrival cpu
+at time: 859, job 41 exit the cpu
+at time: 859, job 41 exit the system
+at time: 863, job 46 arrival in the system
+at time: 863, job 46 arrival cpu
+at time: 867, job 46 exit the cpu
+at time: 867, job 46 exit the system
+at time: 881, job 47 arrival in the system
+at time: 881, job 47 arrival cpu
+at time: 885, job 47 exit the cpu
+at time: 899, job 48 arrival in the system
+at time: 899, job 48 arrival cpu
+at time: 900, job 48 exit the cpu
+at time: 915, job 49 arrival in the system
+at time: 915, job 49 arrival cpu
+at time: 919, job 49 exit the cpu
+at time: 919, job 49 exit the system
+at time: 927, job 50 arrival in the system
+at time: 927, job 50 arrival cpu
+at time: 929, job 50 exit the cpu
+at time: 929, job 50 arrvial the disk1
+at time: 942, job 51 arrival in the system
+at time: 942, job 51 arrival cpu
+at time: 944, job 51 exit the cpu
+at time: 944, job 51 exit the system
+at time: 949, job 50 exit the disk1
+at time: 949, job 50 arrival cpu
+at time: 950, job 50 exit the cpu
+at time: 970, job 52 arrival in the system
+at time: 970, job 52 arrival cpu
+at time: 973, job 52 exit the cpu
+at time: 973, job 52 arrvial the disk1
+at time: 986, job 53 arrival in the system
+at time: 986, job 53 arrival cpu
+at time: 989, job 53 exit the cpu
+at time: 989, job 53 arrvial the disk2
+at time: 1001, job 52 exit the disk1
+at time: 1001, job 52 arrival cpu
+at time: 1003, job 52 exit the cpu
+at time: 1003, job 52 arrvial the disk1
+at time: 1012, job 54 arrival in the system
+at time: 1012, job 54 arrival cpu
+at time: 1013, job 54 exit the cpu
+at time: 1022, job 55 arrival in the system
+at time: 1022, job 55 arrival cpu
+at time: 1023, job 53 arr the disk2
+at time: 1023, job 53 arrival cpu
+at time: 1023, job 21 arrvial the disk2
+at time: 1026, job 55 exit the cpu
+at time: 1026, job 53 exit the cpu
+at time: 1037, job 52 exit the disk1
+at time: 1037, job 52 arrival cpu
+at time: 1037, job 24 arrvial the disk1
+at time: 1041, job 52 exit the cpu
+at time: 1042, job 13 exit the network
+at time: 1042, job 13 arrival cpu
+at time: 1042, job 13 arrival the net
+at time: 1044, job 13 exit the cpu
+at time: 1051, job 56 arrival in the system
+at time: 1051, job 21 arr the disk2
+at time: 1051, job 56 arrival cpu
+at time: 1051, job 21 arrival cpu
+at time: 1051, job 20 arrvial the disk2
+at time: 1053, job 21 exit the cpu
+at time: 1055, job 56 exit the cpu
+at time: 1064, job 57 arrival in the system
+at time: 1064, job 57 arrival cpu
+at time: 1066, job 57 exit the cpu
+at time: 1078, job 24 exit the disk1
+at time: 1078, job 24 arrival cpu
+at time: 1078, job 24 arrvial the disk1
+at time: 1081, job 24 exit the cpu
+at time: 1081, job 24 exit the system
+at time: 1087, job 58 arrival in the system
+at time: 1087, job 58 arrival cpu
+at time: 1088, job 58 exit the cpu
+at time: 1100, job 20 arr the disk2
+at time: 1100, job 20 arrival cpu
+at time: 1100, job 20 arrvial the disk2
+at time: 1103, job 59 arrival in the system
+at time: 1103, job 20 exit the cpu
+at time: 1103, job 15 arrival cpu
+at time: 1104, job 15 exit the cpu
+at time: 1104, job 15 exit the system
+at time: 1123, job 24 exit the disk1
+at time: 1123, job 24 arrival cpu
+at time: 1123, job 3 arrvial the disk1
+at time: 1125, job 24 exit the cpu
+at time: 1129, job 60 arrival in the system
+at time: 1129, job 60 arrival cpu
+at time: 1133, job 60 exit the cpu
+at time: 1133, job 60 exit the system
+at time: 1134, job 20 arr the disk2
+at time: 1134, job 20 arrival cpu
+at time: 1134, job 17 arrvial the disk2
+at time: 1135, job 20 exit the cpu
+at time: 1149, job 3 exit the disk1
+at time: 1149, job 3 arrival cpu
+at time: 1149, job 3 arrvial the disk1
+at time: 1151, job 3 exit the cpu
+at time: 1151, job 3 exit the system
+at time: 1157, job 61 arrival in the system
+at time: 1157, job 61 arrival cpu
+at time: 1161, job 61 exit the cpu
+at time: 1161, job 61 exit the system
+at time: 1169, job 62 arrival in the system
+at time: 1169, job 62 arrival cpu
+at time: 1171, job 62 exit the cpu
+at time: 1176, job 17 arr the disk2
+at time: 1176, job 17 arrival cpu
+at time: 1176, job 25 arrvial the disk2
+at time: 1178, job 17 exit the cpu
+at time: 1178, job 17 exit the system
+at time: 1180, job 63 arrival in the system
+at time: 1180, job 63 arrival cpu
+at time: 1182, job 63 exit the cpu
+at time: 1182, job 63 exit the system
+at time: 1195, job 3 exit the disk1
+at time: 1195, job 3 arrival cpu
+at time: 1195, job 27 arrvial the disk1
+at time: 1199, job 3 exit the cpu
+at time: 1209, job 64 arrival in the system
+at time: 1209, job 64 arrival cpu
+at time: 1211, job 64 exit the cpu
+at time: 1211, job 64 exit the system
+at time: 1216, job 27 exit the disk1
+at time: 1216, job 27 arrival cpu
+at time: 1220, job 27 exit the cpu
+at time: 1220, job 27 arrvial the disk1
+at time: 1221, job 25 arr the disk2
+at time: 1221, job 25 arrival cpu
+at time: 1224, job 25 exit the cpu
+at time: 1224, job 25 exit the system
+at time: 1226, job 65 arrival in the system
+at time: 1226, job 65 arrival cpu
+at time: 1229, job 65 exit the cpu
+at time: 1229, job 65 arrvial the disk2
+at time: 1240, job 66 arrival in the system
+at time: 1240, job 66 arrival cpu
+at time: 1243, job 66 exit the cpu
+at time: 1251, job 67 arrival in the system
+at time: 1251, job 67 arrival cpu
+at time: 1252, job 67 exit the cpu
+at time: 1264, job 27 exit the disk1
+at time: 1264, job 27 arrival cpu
+at time: 1264, job 27 arrvial the disk1
+at time: 1267, job 27 exit the cpu
+at time: 1273, job 68 arrival in the system
+at time: 1273, job 68 arrival cpu
+at time: 1275, job 65 arr the disk2
+at time: 1275, job 65 arrival cpu
+at time: 1275, job 25 arrvial the disk2
+at time: 1276, job 65 exit the cpu
+at time: 1277, job 68 exit the cpu
+at time: 1277, job 68 exit the system
+at time: 1285, job 69 arrival in the system
+at time: 1285, job 69 arrival cpu
+at time: 1288, job 69 exit the cpu
+at time: 1288, job 69 exit the system
+at time: 1297, job 25 arr the disk2
+at time: 1297, job 25 arrival cpu
+at time: 1297, job 25 arrvial the disk2
+at time: 1300, job 25 exit the cpu
+at time: 1309, job 27 exit the disk1
+at time: 1309, job 27 arrival cpu
+at time: 1309, job 53 arrvial the disk1
+at time: 1313, job 70 arrival in the system
+at time: 1313, job 27 exit the cpu
+at time: 1313, job 15 arrival cpu
+at time: 1316, job 15 exit the cpu
+at time: 1316, job 15 exit the system
+at time: 1335, job 71 arrival in the system
+at time: 1335, job 71 arrival cpu
+at time: 1337, job 71 exit the cpu
+at time: 1345, job 53 exit the disk1
+at time: 1345, job 53 arrival cpu
+at time: 1345, job 53 arrvial the disk1
+at time: 1346, job 25 arr the disk2
+at time: 1346, job 53 exit the cpu
+at time: 1346, job 25 arrival cpu
+at time: 1346, job 3 arrvial the disk2
+at time: 1347, job 25 exit the cpu
+at time: 1364, job 72 arrival in the system
+at time: 1364, job 72 arrival cpu
+at time: 1365, job 53 exit the disk1
+at time: 1365, job 53 arrival cpu
+at time: 1365, job 13 arrvial the disk1
+at time: 1366, job 72 exit the cpu
+at time: 1367, job 53 exit the cpu
+at time: 1367, job 53 exit the system
+at time: 1378, job 73 arrival in the system
+at time: 1378, job 73 arrival cpu
+at time: 1380, job 73 exit the cpu
+at time: 1388, job 3 arr the disk2
+at time: 1388, job 3 arrival cpu
+at time: 1388, job 3 arrvial the disk2
+at time: 1391, job 3 exit the cpu
+at time: 1396, job 13 exit the disk1
+at time: 1396, job 13 arrival cpu
+at time: 1396, job 57 arrvial the disk1
+at time: 1399, job 13 exit the cpu
+at time: 1399, job 13 exit the system
+at time: 1401, job 74 arrival in the system
+at time: 1401, job 74 arrival cpu
+at time: 1403, job 74 exit the cpu
+at time: 1415, job 75 arrival in the system
+at time: 1415, job 75 arrival cpu
+at time: 1416, job 75 exit the cpu
+at time: 1417, job 3 arr the disk2
+at time: 1417, job 3 arrival cpu
+at time: 1417, job 5 arrvial the disk2
+at time: 1418, job 3 exit the cpu
+at time: 1433, job 76 arrival in the system
+at time: 1433, job 76 arrival cpu
+at time: 1434, job 76 exit the cpu
+at time: 1434, job 76 exit the system
+at time: 1436, job 13 exit the network
+at time: 1436, job 13 arrival cpu
+at time: 1436, job 12 arrival the net
+at time: 1438, job 57 exit the disk1
+at time: 1438, job 13 exit the cpu
+at time: 1438, job 13 exit the system
+at time: 1438, job 57 arrival cpu
+at time: 1438, job 57 arrvial the disk1
+at time: 1440, job 57 exit the cpu
+at time: 1455, job 5 arr the disk2
+at time: 1455, job 5 arrival cpu
+at time: 1455, job 5 arrvial the disk2
+at time: 1458, job 5 exit the cpu
+at time: 1461, job 77 arrival in the system
+at time: 1461, job 77 arrival cpu
+at time: 1462, job 77 exit the cpu
+at time: 1462, job 77 exit the system
+at time: 1471, job 57 exit the disk1
+at time: 1471, job 57 arrival cpu
+at time: 1471, job 57 arrvial the disk1
+at time: 1472, job 57 exit the cpu
+at time: 1477, job 78 arrival in the system
+at time: 1477, job 78 arrival cpu
+at time: 1479, job 78 exit the cpu
+at time: 1497, job 57 exit the disk1
+at time: 1497, job 57 arrival cpu
+at time: 1497, job 24 arrvial the disk1
+at time: 1499, job 5 arr the disk2
+at time: 1499, job 5 arrival cpu
+at time: 1499, job 54 arrvial the disk2
+at time: 1501, job 57 exit the cpu
+at time: 1503, job 5 exit the cpu
+at time: 1504, job 79 arrival in the system
+at time: 1504, job 79 arrival cpu
+at time: 1506, job 79 exit the cpu
+at time: 1520, job 80 arrival in the system
+at time: 1520, job 80 arrival cpu
+at time: 1524, job 80 exit the cpu
+at time: 1530, job 24 exit the disk1
+at time: 1530, job 24 arrival cpu
+at time: 1530, job 24 arrvial the disk1
+at time: 1532, job 24 exit the cpu
+at time: 1536, job 54 arr the disk2
+at time: 1536, job 54 arrival cpu
+at time: 1536, job 54 arrvial the disk2
+at time: 1537, job 54 exit the cpu
+at time: 1537, job 54 exit the system
+at time: 1546, job 81 arrival in the system
+at time: 1546, job 81 arrival cpu
+at time: 1547, job 81 exit the cpu
+at time: 1547, job 81 exit the system
+at time: 1556, job 82 arrival in the system
+at time: 1556, job 82 arrival cpu
+at time: 1559, job 24 exit the disk1
+at time: 1559, job 82 exit the cpu
+at time: 1559, job 24 arrival cpu
+at time: 1559, job 62 arrvial the disk1
+at time: 1560, job 24 exit the cpu
+at time: 1570, job 54 arr the disk2
+at time: 1570, job 54 arrival cpu
+at time: 1570, job 55 arrvial the disk2
+at time: 1572, job 54 exit the cpu
+at time: 1573, job 83 arrival in the system
+at time: 1573, job 83 arrival cpu
+at time: 1576, job 83 exit the cpu
+at time: 1576, job 83 exit the system
+at time: 1581, job 62 exit the disk1
+at time: 1581, job 62 arrival cpu
+at time: 1581, job 62 arrvial the disk1
+at time: 1585, job 62 exit the cpu
+at time: 1602, job 84 arrival in the system
+at time: 1602, job 84 arrival cpu
+at time: 1605, job 84 exit the cpu
+at time: 1609, job 55 arr the disk2
+at time: 1609, job 55 arrival cpu
+at time: 1609, job 55 arrvial the disk2
+at time: 1613, job 55 exit the cpu
+at time: 1619, job 85 arrival in the system
+at time: 1619, job 85 arrival cpu
+at time: 1620, job 85 exit the cpu
+at time: 1620, job 85 exit the system
+at time: 1621, job 62 exit the disk1
+at time: 1621, job 62 arrival cpu
+at time: 1621, job 67 arrvial the disk1
+at time: 1625, job 62 exit the cpu
+at time: 1625, job 62 exit the system
+at time: 1634, job 55 arr the disk2
+at time: 1634, job 55 arrival cpu
+at time: 1634, job 21 arrvial the disk2
+at time: 1636, job 55 exit the cpu
+at time: 1648, job 86 arrival in the system
+at time: 1648, job 86 arrival cpu
+at time: 1652, job 86 exit the cpu
+at time: 1665, job 67 exit the disk1
+at time: 1665, job 67 arrival cpu
+at time: 1667, job 87 arrival in the system
+at time: 1667, job 67 exit the cpu
+at time: 1667, job 18 arrival cpu
+at time: 1671, job 18 exit the cpu
+at time: 1677, job 88 arrival in the system
+at time: 1677, job 88 arrival cpu
+at time: 1678, job 21 arr the disk2
+at time: 1678, job 21 arrival cpu
+at time: 1678, job 56 arrvial the disk2
+at time: 1679, job 21 exit the cpu
+at time: 1679, job 21 arrvial the disk1
+at time: 1681, job 88 exit the cpu
+at time: 1696, job 89 arrival in the system
+at time: 1696, job 89 arrival cpu
+at time: 1699, job 89 exit the cpu
+at time: 1710, job 56 arr the disk2
+at time: 1710, job 56 arrival cpu
+at time: 1710, job 56 arrvial the disk2
+at time: 1711, job 56 exit the cpu
+at time: 1715, job 90 arrival in the system
+at time: 1715, job 90 arrival cpu
+at time: 1716, job 90 exit the cpu
+at time: 1722, job 21 exit the disk1
+at time: 1722, job 21 arrival cpu
+at time: 1722, job 67 arrvial the disk1
+at time: 1725, job 21 exit the cpu
+at time: 1725, job 21 exit the system
+at time: 1731, job 91 arrival in the system
+at time: 1731, job 91 arrival cpu
+at time: 1733, job 91 exit the cpu
+at time: 1742, job 67 exit the disk1
+at time: 1742, job 67 arrival cpu
+at time: 1742, job 27 arrvial the disk1
+at time: 1744, job 92 arrival in the system
+at time: 1744, job 67 exit the cpu
+at time: 1744, job 18 arrival cpu
+at time: 1748, job 18 exit the cpu
+at time: 1751, job 56 arr the disk2
+at time: 1751, job 56 arrival cpu
+at time: 1751, job 56 arrvial the disk2
+at time: 1754, job 56 exit the cpu
+at time: 1754, job 56 exit the system
+at time: 1759, job 93 arrival in the system
+at time: 1759, job 93 arrival cpu
+at time: 1761, job 93 exit the cpu
+at time: 1761, job 93 exit the system
+at time: 1762, job 27 exit the disk1
+at time: 1762, job 27 arrival cpu
+at time: 1762, job 27 arrvial the disk1
+at time: 1763, job 27 exit the cpu
+at time: 1771, job 56 arr the disk2
+at time: 1771, job 56 arrival cpu
+at time: 1771, job 20 arrvial the disk2
+at time: 1772, job 56 exit the cpu
+at time: 1772, job 56 exit the system
+at time: 1773, job 94 arrival in the system
+at time: 1773, job 94 arrival cpu
+at time: 1776, job 94 exit the cpu
+at time: 1789, job 95 arrival in the system
+at time: 1789, job 95 arrival cpu
+at time: 1790, job 95 exit the cpu
+at time: 1797, job 27 exit the disk1
+at time: 1797, job 27 arrival cpu
+at time: 1797, job 27 arrvial the disk1
+at time: 1799, job 27 exit the cpu
+at time: 1807, job 20 arr the disk2
+at time: 1807, job 20 arrival cpu
+at time: 1807, job 20 arrvial the disk2
+at time: 1811, job 20 exit the cpu
+at time: 1815, job 96 arrival in the system
+at time: 1815, job 96 arrival cpu
+at time: 1819, job 96 exit the cpu
+at time: 1823, job 27 exit the disk1
+at time: 1823, job 27 arrival cpu
+at time: 1823, job 27 arrvial the disk1
+at time: 1825, job 97 arrival in the system
+at time: 1825, job 27 exit the cpu
+at time: 1825, job 32 arrival cpu
+at time: 1828, job 32 exit the cpu
+at time: 1837, job 20 arr the disk2
+at time: 1837, job 20 arrival cpu
+at time: 1837, job 66 arrvial the disk2
+at time: 1838, job 20 exit the cpu
+at time: 1838, job 20 exit the system
+at time: 1847, job 98 arrival in the system
+at time: 1847, job 98 arrival cpu
+at time: 1850, job 27 exit the disk1
+at time: 1850, job 98 exit the cpu
+at time: 1850, job 27 arrival cpu
+at time: 1850, job 53 arrvial the disk1
+at time: 1852, job 27 exit the cpu
+at time: 1876, job 99 arrival in the system
+at time: 1876, job 99 arrival cpu
+at time: 1877, job 66 arr the disk2
+at time: 1877, job 99 exit the cpu
+at time: 1877, job 66 arrival cpu
+at time: 1877, job 66 arrvial the disk2
+at time: 1881, job 66 exit the cpu
+at time: 1884, job 12 exit the network
+at time: 1884, job 53 exit the disk1
+at time: 1884, job 12 arrival cpu
+at time: 1884, job 16 arrival the net
+at time: 1884, job 53 arrival cpu
+at time: 1884, job 53 arrvial the disk1
+at time: 1885, job 53 exit the cpu
+at time: 1885, job 53 exit the system
+at time: 1887, job 100 arrival in the system
+at time: 1887, job 12 exit the cpu
+at time: 1887, job 100 arrival cpu
+at time: 1889, job 100 exit the cpu
+at time: 1903, job 101 arrival in the system
+at time: 1903, job 101 arrival cpu
+at time: 1907, job 101 exit the cpu
+at time: 1907, job 101 exit the system
+at time: 1918, job 102 arrival in the system
+at time: 1918, job 102 arrival cpu
+at time: 1920, job 102 exit the cpu
+at time: 1925, job 66 arr the disk2
+at time: 1925, job 66 arrival cpu
+at time: 1925, job 65 arrvial the disk2
+at time: 1927, job 66 exit the cpu
+at time: 1930, job 53 exit the disk1
+at time: 1930, job 53 arrival cpu
+at time: 1930, job 72 arrvial the disk1
+at time: 1932, job 53 exit the cpu
+at time: 1946, job 103 arrival in the system
+at time: 1946, job 103 arrival cpu
+at time: 1949, job 103 exit the cpu
+at time: 1953, job 65 arr the disk2
+at time: 1953, job 65 arrival cpu
+at time: 1953, job 65 arrvial the disk2
+at time: 1956, job 65 exit the cpu
+at time: 1956, job 65 exit the system
+at time: 1959, job 72 exit the disk1
+at time: 1959, job 72 arrival cpu
+at time: 1959, job 73 arrvial the disk1
+at time: 1960, job 72 exit the cpu
+at time: 1960, job 72 exit the system
+at time: 1963, job 104 arrival in the system
+at time: 1963, job 104 arrival cpu
+at time: 1965, job 104 exit the cpu
+at time: 1991, job 105 arrival in the system
+at time: 1991, job 105 arrival cpu
+at time: 1993, job 105 exit the cpu
+at time: 1994, job 65 arr the disk2
+at time: 1994, job 65 arrival cpu
+at time: 1994, job 25 arrvial the disk2
+at time: 1996, job 65 exit the cpu
+at time: 1998, job 73 exit the disk1
+at time: 1998, job 73 arrival cpu
+at time: 1998, job 73 arrvial the disk1
+at time: 2001, job 73 exit the cpu
+at time: 2001, job 73 exit the system
+at time: 2015, job 106 arrival in the system
+at time: 2015, job 106 arrival cpu
+at time: 2017, job 25 arr the disk2
+at time: 2017, job 106 exit the cpu
+at time: 2017, job 25 arrival cpu
+at time: 2017, job 71 arrvial the disk2
+at time: 2020, job 25 exit the cpu
+at time: 2037, job 73 exit the disk1
+at time: 2037, job 73 arrival cpu
+at time: 2037, job 73 arrvial the disk1
+at time: 2041, job 71 arr the disk2
+at time: 2041, job 73 exit the cpu
+at time: 2041, job 71 arrival cpu
+at time: 2041, job 71 arrvial the disk2
+at time: 2044, job 107 arrival in the system
+at time: 2044, job 71 exit the cpu
+at time: 2044, job 107 arrival cpu
+at time: 2046, job 107 exit the cpu
+at time: 2046, job 107 exit the system
+at time: 2066, job 108 arrival in the system
+at time: 2066, job 108 arrival cpu
+at time: 2068, job 108 exit the cpu
+at time: 2077, job 109 arrival in the system
+at time: 2077, job 109 arrival cpu
+at time: 2078, job 73 exit the disk1
+at time: 2078, job 73 arrival cpu
+at time: 2078, job 5 arrvial the disk1
+at time: 2081, job 71 arr the disk2
+at time: 2081, job 109 exit the cpu
+at time: 2081, job 109 exit the system
+at time: 2081, job 71 arrival cpu
+at time: 2081, job 25 arrvial the disk2
+at time: 2082, job 73 exit the cpu
+at time: 2083, job 71 exit the cpu
+at time: 2098, job 110 arrival in the system
+at time: 2098, job 110 arrival cpu
+at time: 2100, job 110 exit the cpu
+at time: 2119, job 5 exit the disk1
+at time: 2119, job 5 arrival cpu
+at time: 2119, job 5 arrvial the disk1
+at time: 2120, job 5 exit the cpu
+at time: 2120, job 5 exit the system
+at time: 2121, job 25 arr the disk2
+at time: 2121, job 25 arrival cpu
+at time: 2121, job 25 arrvial the disk2
+at time: 2125, job 25 exit the cpu
+at time: 2126, job 111 arrival in the system
+at time: 2126, job 111 arrival cpu
+at time: 2129, job 111 exit the cpu
+at time: 2140, job 112 arrival in the system
+at time: 2140, job 112 arrival cpu
+at time: 2142, job 112 exit the cpu
+at time: 2150, job 25 arr the disk2
+at time: 2150, job 25 arrival cpu
+at time: 2150, job 75 arrvial the disk2
+at time: 2153, job 25 exit the cpu
+at time: 2154, job 16 exit the network
+at time: 2154, job 16 arrival cpu
+at time: 2154, job 3 arrival the net
+at time: 2155, job 5 exit the disk1
+at time: 2155, job 5 arrival cpu
+at time: 2155, job 57 arrvial the disk1
+at time: 2156, job 16 exit the cpu
+at time: 2156, job 5 exit the cpu
+at time: 2168, job 113 arrival in the system
+at time: 2168, job 113 arrival cpu
+at time: 2172, job 113 exit the cpu
+at time: 2185, job 114 arrival in the system
+at time: 2185, job 114 arrival cpu
+at time: 2189, job 114 exit the cpu
+at time: 2189, job 114 exit the system
+at time: 2192, job 75 arr the disk2
+at time: 2192, job 75 arrival cpu
+at time: 2192, job 75 arrvial the disk2
+at time: 2196, job 75 exit the cpu
+at time: 2199, job 57 exit the disk1
+at time: 2199, job 115 arrival in the system
+at time: 2199, job 57 arrival cpu
+at time: 2199, job 57 arrvial the disk1
+at time: 2202, job 57 exit the cpu
+at time: 2202, job 32 arrival cpu
+at time: 2204, job 32 exit the cpu
+at time: 2209, job 116 arrival in the system
+at time: 2209, job 116 arrival cpu
+at time: 2211, job 116 exit the cpu
+at time: 2222, job 75 arr the disk2
+at time: 2222, job 75 arrival cpu
+at time: 2222, job 3 arrvial the disk2
+at time: 2224, job 57 exit the disk1
+at time: 2224, job 57 arrival cpu
+at time: 2224, job 57 arrvial the disk1
+at time: 2226, job 75 exit the cpu
+at time: 2228, job 57 exit the cpu
+at time: 2230, job 117 arrival in the system
+at time: 2230, job 117 arrival cpu
+at time: 2233, job 117 exit the cpu
+at time: 2233, job 117 exit the system
+at time: 2253, job 118 arrival in the system
+at time: 2253, job 118 arrival cpu
+at time: 2256, job 118 exit the cpu
+at time: 2257, job 3 arr the disk2
+at time: 2257, job 3 arrival cpu
+at time: 2257, job 3 arrvial the disk2
+at time: 2259, job 3 exit the cpu
+at time: 2265, job 119 arrival in the system
+at time: 2265, job 119 arrival cpu
+at time: 2268, job 57 exit the disk1
+at time: 2268, job 119 exit the cpu
+at time: 2268, job 57 arrival cpu
+at time: 2268, job 79 arrvial the disk1
+at time: 2271, job 57 exit the cpu
+at time: 2289, job 120 arrival in the system
+at time: 2289, job 120 arrival cpu
+at time: 2291, job 79 exit the disk1
+at time: 2291, job 79 arrival cpu
+at time: 2291, job 79 arrvial the disk1
+at time: 2292, job 120 exit the cpu
+at time: 2293, job 79 exit the cpu
+at time: 2297, job 3 arr the disk2
+at time: 2297, job 3 arrival cpu
+at time: 2297, job 78 arrvial the disk2
+at time: 2301, job 3 exit the cpu
+at time: 2301, job 3 exit the system
+at time: 2313, job 121 arrival in the system
+at time: 2313, job 121 arrival cpu
+at time: 2314, job 121 exit the cpu
+at time: 2325, job 78 arr the disk2
+at time: 2325, job 78 arrival cpu
+at time: 2325, job 78 arrvial the disk2
+at time: 2327, job 78 exit the cpu
+at time: 2333, job 122 arrival in the system
+at time: 2333, job 122 arrival cpu
+at time: 2337, job 122 exit the cpu
+at time: 2340, job 79 exit the disk1
+at time: 2340, job 79 arrival cpu
+at time: 2340, job 79 arrvial the disk1
+at time: 2344, job 79 exit the cpu
+at time: 2344, job 79 exit the system
+at time: 2360, job 123 arrival in the system
+at time: 2360, job 123 arrival cpu
+at time: 2364, job 123 exit the cpu
+at time: 2364, job 123 exit the system
+at time: 2371, job 78 arr the disk2
+at time: 2371, job 78 arrival cpu
+at time: 2371, job 5 arrvial the disk2
+at time: 2373, job 79 exit the disk1
+at time: 2373, job 79 arrival cpu
+at time: 2373, job 24 arrvial the disk1
+at time: 2374, job 78 exit the cpu
+at time: 2374, job 79 exit the cpu
+at time: 2375, job 124 arrival in the system
+at time: 2375, job 124 arrival cpu
+at time: 2378, job 124 exit the cpu
+at time: 2378, job 124 exit the system
+at time: 2398, job 5 arr the disk2
+at time: 2398, job 5 arrival cpu
+at time: 2398, job 80 arrvial the disk2
+at time: 2402, job 5 exit the cpu
+at time: 2403, job 125 arrival in the system
+at time: 2403, job 125 arrival cpu
+at time: 2405, job 125 exit the cpu
+at time: 2416, job 24 exit the disk1
+at time: 2416, job 24 arrival cpu
+at time: 2416, job 24 arrvial the disk1
+at time: 2417, job 24 exit the cpu
+at time: 2417, job 24 exit the system
+at time: 2418, job 126 arrival in the system
+at time: 2418, job 126 arrival cpu
+at time: 2419, job 126 exit the cpu
+at time: 2419, job 126 exit the system
+at time: 2437, job 24 exit the disk1
+at time: 2437, job 24 arrival cpu
+at time: 2437, job 62 arrvial the disk1
+at time: 2438, job 127 arrival in the system
+at time: 2439, job 3 exit the network
+at time: 2439, job 80 arr the disk2
+at time: 2439, job 24 exit the cpu
+at time: 2439, job 17 arrival the net
+at time: 2439, job 80 arrvial the disk2
+at time: 2439, job 59 arrival cpu
+at time: 2443, job 59 exit the cpu
+at time: 2443, job 59 exit the system
+at time: 2443, job 59 arrival cpu
+at time: 2447, job 59 exit the cpu
+at time: 2447, job 70 arrival cpu
+at time: 2448, job 70 exit the cpu
+at time: 2463, job 128 arrival in the system
+at time: 2463, job 128 arrival cpu
+at time: 2464, job 128 exit the cpu
+at time: 2478, job 129 arrival in the system
+at time: 2478, job 129 arrival cpu
+at time: 2479, job 80 arr the disk2
+at time: 2479, job 80 arrival cpu
+at time: 2479, job 80 arrvial the disk2
+at time: 2481, job 129 exit the cpu
+at time: 2482, job 80 exit the cpu
+at time: 2483, job 62 exit the disk1
+at time: 2483, job 62 arrival cpu
+at time: 2483, job 62 arrvial the disk1
+at time: 2484, job 62 exit the cpu
+at time: 2484, job 62 exit the system
+at time: 2503, job 130 arrival in the system
+at time: 2503, job 130 arrival cpu
+at time: 2504, job 130 exit the cpu
+at time: 2520, job 80 arr the disk2
+at time: 2520, job 80 arrival cpu
+at time: 2520, job 84 arrvial the disk2
+at time: 2522, job 62 exit the disk1
+at time: 2522, job 62 arrival cpu
+at time: 2522, job 90 arrvial the disk1
+at time: 2523, job 131 arrival in the system
+at time: 2523, job 62 exit the cpu
+at time: 2523, job 70 arrival cpu
+at time: 2524, job 80 exit the cpu
+at time: 2526, job 70 exit the cpu
+at time: 2545, job 90 exit the disk1
+at time: 2545, job 132 arrival in the system
+at time: 2545, job 90 arrival cpu
+at time: 2545, job 90 arrvial the disk1
+at time: 2548, job 90 exit the cpu
+at time: 2548, job 90 exit the system
+at time: 2548, job 87 arrival cpu
+at time: 2552, job 87 exit the cpu
+at time: 2552, job 87 exit the system
+at time: 2564, job 84 arr the disk2
+at time: 2564, job 84 arrival cpu
+at time: 2564, job 84 arrvial the disk2
+at time: 2565, job 133 arrival in the system
+at time: 2568, job 84 exit the cpu
+at time: 2568, job 87 arrival cpu
+at time: 2569, job 87 exit the cpu
+at time: 2569, job 87 exit the system
+at time: 2577, job 134 arrival in the system
+at time: 2577, job 134 arrival cpu
+at time: 2578, job 90 exit the disk1
+at time: 2578, job 90 arrival cpu
+at time: 2578, job 91 arrvial the disk1
+at time: 2581, job 134 exit the cpu
+at time: 2581, job 90 exit the cpu
+at time: 2598, job 84 arr the disk2
+at time: 2598, job 84 arrival cpu
+at time: 2598, job 84 arrvial the disk2
+at time: 2601, job 135 arrival in the system
+at time: 2602, job 84 exit the cpu
+at time: 2602, job 92 arrival cpu
+at time: 2604, job 91 exit the disk1
+at time: 2604, job 92 exit the cpu
+at time: 2604, job 91 arrival cpu
+at time: 2604, job 91 arrvial the disk1
+at time: 2608, job 91 exit the cpu
+at time: 2613, job 136 arrival in the system
+at time: 2613, job 136 arrival cpu
+at time: 2616, job 136 exit the cpu
+at time: 2620, job 84 arr the disk2
+at time: 2620, job 84 arrival cpu
+at time: 2620, job 55 arrvial the disk2
+at time: 2622, job 84 exit the cpu
+at time: 2625, job 137 arrival in the system
+at time: 2625, job 137 arrival cpu
+at time: 2629, job 137 exit the cpu
+at time: 2638, job 91 exit the disk1
+at time: 2638, job 91 arrival cpu
+at time: 2638, job 67 arrvial the disk1
+at time: 2640, job 91 exit the cpu
+at time: 2640, job 91 exit the system
+at time: 2642, job 138 arrival in the system
+at time: 2642, job 138 arrival cpu
+at time: 2644, job 138 exit the cpu
+at time: 2655, job 139 arrival in the system
+at time: 2655, job 139 arrival cpu
+at time: 2657, job 55 arr the disk2
+at time: 2657, job 55 arrival cpu
+at time: 2657, job 55 arrvial the disk2
+at time: 2658, job 55 exit the cpu
+at time: 2659, job 139 exit the cpu
+at time: 2659, job 139 exit the system
+at time: 2672, job 140 arrival in the system
+at time: 2672, job 140 arrival cpu
+at time: 2673, job 140 exit the cpu
+at time: 2686, job 67 exit the disk1
+at time: 2686, job 141 arrival in the system
+at time: 2686, job 67 arrival cpu
+at time: 2686, job 67 arrvial the disk1
+at time: 2688, job 17 exit the network
+at time: 2688, job 28 arrival the net
+at time: 2690, job 67 exit the cpu
+at time: 2690, job 67 exit the system
+at time: 2690, job 92 arrival cpu
+at time: 2691, job 92 exit the cpu
+at time: 2691, job 97 arrival cpu
+at time: 2693, job 97 exit the cpu
+at time: 2703, job 55 arr the disk2
+at time: 2703, job 55 arrival cpu
+at time: 2703, job 89 arrvial the disk2
+at time: 2706, job 55 exit the cpu
+at time: 2706, job 55 exit the system
+at time: 2712, job 67 exit the disk1
+at time: 2712, job 67 arrival cpu
+at time: 2712, job 27 arrvial the disk1
+at time: 2713, job 67 exit the cpu
+at time: 2714, job 142 arrival in the system
+at time: 2714, job 142 arrival cpu
+at time: 2717, job 142 exit the cpu
+at time: 2717, job 142 exit the system
+at time: 2723, job 89 arr the disk2
+at time: 2723, job 89 arrival cpu
+at time: 2723, job 89 arrvial the disk2
+at time: 2724, job 143 arrival in the system
+at time: 2725, job 89 exit the cpu
+at time: 2725, job 97 arrival cpu
+at time: 2727, job 97 exit the cpu
+at time: 2727, job 97 exit the system
+at time: 2748, job 144 arrival in the system
+at time: 2748, job 144 arrival cpu
+at time: 2751, job 27 exit the disk1
+at time: 2751, job 27 arrival cpu
+at time: 2751, job 27 arrvial the disk1
+at time: 2752, job 144 exit the cpu
+at time: 2754, job 89 arr the disk2
+at time: 2754, job 89 arrival cpu
+at time: 2754, job 56 arrvial the disk2
+at time: 2755, job 27 exit the cpu
+at time: 2755, job 89 exit the cpu
+at time: 2765, job 145 arrival in the system
+at time: 2765, job 145 arrival cpu
+at time: 2769, job 145 exit the cpu
+at time: 2776, job 56 arr the disk2
+at time: 2776, job 56 arrival cpu
+at time: 2776, job 18 arrvial the disk2
+at time: 2778, job 27 exit the disk1
+at time: 2778, job 27 arrival cpu
+at time: 2778, job 27 arrvial the disk1
+at time: 2779, job 56 exit the cpu
+at time: 2782, job 27 exit the cpu
+at time: 2785, job 146 arrival in the system
+at time: 2785, job 146 arrival cpu
+at time: 2787, job 146 exit the cpu
+at time: 2787, job 146 exit the system
+at time: 2796, job 18 arr the disk2
+at time: 2796, job 147 arrival in the system
+at time: 2796, job 18 arrival cpu
+at time: 2796, job 18 arrvial the disk2
+at time: 2798, job 18 exit the cpu
+at time: 2798, job 115 arrival cpu
+at time: 2801, job 27 exit the disk1
+at time: 2801, job 27 arrival cpu
+at time: 2801, job 96 arrvial the disk1
+at time: 2802, job 115 exit the cpu
+at time: 2802, job 115 exit the system
+at time: 2805, job 27 exit the cpu
+at time: 2805, job 27 exit the system
+at time: 2806, job 148 arrival in the system
+at time: 2806, job 148 arrival cpu
+at time: 2807, job 148 exit the cpu
+at time: 2818, job 18 arr the disk2
+at time: 2818, job 149 arrival in the system
+at time: 2818, job 18 arrival cpu
+at time: 2818, job 18 arrvial the disk2
+at time: 2819, job 18 exit the cpu
+at time: 2819, job 115 arrival cpu
+at time: 2822, job 115 exit the cpu
+at time: 2822, job 115 exit the system
+at time: 2837, job 96 exit the disk1
+at time: 2837, job 96 arrival cpu
+at time: 2837, job 96 arrvial the disk1
+at time: 2839, job 96 exit the cpu
+at time: 2845, job 150 arrival in the system
+at time: 2845, job 150 arrival cpu
+at time: 2848, job 150 exit the cpu
+at time: 2862, job 18 arr the disk2
+at time: 2862, job 18 arrival cpu
+at time: 2862, job 94 arrvial the disk2
+at time: 2865, job 96 exit the disk1
+at time: 2865, job 96 arrival cpu
+at time: 2865, job 27 arrvial the disk1
+at time: 2866, job 18 exit the cpu
+at time: 2866, job 18 exit the system
+at time: 2868, job 96 exit the cpu
+at time: 2874, job 151 arrival in the system
+at time: 2874, job 151 arrival cpu
+at time: 2877, job 151 exit the cpu
+at time: 2877, job 151 exit the system
+at time: 2896, job 152 arrival in the system
+at time: 2896, job 152 arrival cpu
+at time: 2898, job 94 arr the disk2
+at time: 2898, job 94 arrival cpu
+at time: 2898, job 95 arrvial the disk2
+at time: 2899, job 94 exit the cpu
+at time: 2899, job 94 exit the system
+at time: 2900, job 152 exit the cpu
+at time: 2902, job 27 exit the disk1
+at time: 2902, job 27 arrival cpu
+at time: 2902, job 27 arrvial the disk1
+at time: 2905, job 27 exit the cpu
+at time: 2912, job 153 arrival in the system
+at time: 2912, job 153 arrival cpu
+at time: 2916, job 153 exit the cpu
+at time: 2916, job 153 exit the system
+at time: 2927, job 27 exit the disk1
+at time: 2927, job 27 arrival cpu
+at time: 2927, job 98 arrvial the disk1
+at time: 2928, job 27 exit the cpu
+at time: 2928, job 27 exit the system
+at time: 2930, job 95 arr the disk2
+at time: 2930, job 95 arrival cpu
+at time: 2930, job 95 arrvial the disk2
+at time: 2931, job 95 exit the cpu
+at time: 2931, job 95 exit the system
+at time: 2932, job 154 arrival in the system
+at time: 2932, job 154 arrival cpu
+at time: 2934, job 154 exit the cpu
+at time: 2961, job 155 arrival in the system
+at time: 2961, job 155 arrival cpu
+at time: 2962, job 155 exit the cpu
+at time: 2962, job 155 exit the system
+at time: 2963, job 98 exit the disk1
+at time: 2963, job 98 arrival cpu
+at time: 2963, job 98 arrvial the disk1
+at time: 2965, job 95 arr the disk2
+at time: 2965, job 95 arrival cpu
+at time: 2965, job 20 arrvial the disk2
+at time: 2966, job 95 exit the cpu
+at time: 2966, job 95 exit the system
+at time: 2967, job 98 exit the cpu
+at time: 2967, job 98 exit the system
+at time: 2987, job 156 arrival in the system
+at time: 2987, job 156 arrival cpu
+at time: 2988, job 156 exit the cpu
+at time: 2988, job 156 exit the system
+at time: 2997, job 20 arr the disk2
+at time: 2997, job 20 arrival cpu
+at time: 2997, job 32 arrvial the disk2
+at time: 3000, job 98 exit the disk1
+at time: 3000, job 98 arrival cpu
+at time: 3001, job 20 exit the cpu
+at time: 3001, job 20 arrvial the disk1
+at time: 3002, job 98 exit the cpu
+at time: 3002, job 98 exit the system
+at time: 3012, job 157 arrival in the system
+at time: 3012, job 157 arrival cpu
+at time: 3015, job 157 exit the cpu
+at time: 3025, job 158 arrival in the system
+at time: 3025, job 158 arrival cpu
+at time: 3027, job 32 arr the disk2
+at time: 3027, job 32 arrival cpu
+at time: 3027, job 32 arrvial the disk2
+at time: 3029, job 158 exit the cpu
+at time: 3030, job 32 exit the cpu
+at time: 3039, job 20 exit the disk1
+at time: 3039, job 20 arrival cpu
+at time: 3039, job 12 arrvial the disk1
+at time: 3041, job 20 exit the cpu
+at time: 3041, job 20 exit the system
+at time: 3052, job 159 arrival in the system
+at time: 3052, job 159 arrival cpu
+at time: 3055, job 159 exit the cpu
+at time: 3076, job 32 arr the disk2
+at time: 3076, job 32 arrival cpu
+at time: 3076, job 27 arrvial the disk2
+at time: 3079, job 12 exit the disk1
+at time: 3079, job 32 exit the cpu
+at time: 3079, job 12 arrival cpu
+at time: 3079, job 12 arrvial the disk1
+at time: 3081, job 160 arrival in the system
+at time: 3081, job 160 arrival cpu
+at time: 3082, job 12 exit the cpu
+at time: 3082, job 160 exit the cpu
+at time: 3086, job 28 exit the network
+at time: 3086, job 28 arrival cpu
+at time: 3086, job 30 arrival the net
+at time: 3088, job 28 exit the cpu
+at time: 3105, job 12 exit the disk1
+at time: 3105, job 12 arrival cpu
+at time: 3105, job 53 arrvial the disk1
+at time: 3108, job 12 exit the cpu
+at time: 3108, job 12 exit the system
+at time: 3110, job 161 arrival in the system
+at time: 3110, job 161 arrival cpu
+at time: 3114, job 161 exit the cpu
+at time: 3119, job 27 arr the disk2
+at time: 3119, job 27 arrival cpu
+at time: 3119, job 27 arrvial the disk2
+at time: 3121, job 162 arrival in the system
+at time: 3122, job 27 exit the cpu
+at time: 3122, job 127 arrival cpu
+at time: 3124, job 127 exit the cpu
+at time: 3146, job 163 arrival in the system
+at time: 3146, job 163 arrival cpu
+at time: 3147, job 53 exit the disk1
+at time: 3147, job 53 arrival cpu
+at time: 3147, job 103 arrvial the disk1
+at time: 3148, job 53 exit the cpu
+at time: 3149, job 163 exit the cpu
+at time: 3153, job 27 arr the disk2
+at time: 3153, job 27 arrival cpu
+at time: 3153, job 102 arrvial the disk2
+at time: 3155, job 27 exit the cpu
+at time: 3164, job 164 arrival in the system
+at time: 3164, job 164 arrival cpu
+at time: 3166, job 164 exit the cpu
+at time: 3166, job 164 exit the system
+at time: 3175, job 103 exit the disk1
+at time: 3175, job 103 arrival cpu
+at time: 3175, job 103 arrvial the disk1
+at time: 3177, job 103 exit the cpu
+at time: 3188, job 165 arrival in the system
+at time: 3188, job 165 arrival cpu
+at time: 3192, job 165 exit the cpu
+at time: 3198, job 102 arr the disk2
+at time: 3198, job 102 arrival cpu
+at time: 3198, job 102 arrvial the disk2
+at time: 3200, job 102 exit the cpu
+at time: 3210, job 166 arrival in the system
+at time: 3210, job 166 arrival cpu
+at time: 3212, job 103 exit the disk1
+at time: 3212, job 103 arrival cpu
+at time: 3212, job 105 arrvial the disk1
+at time: 3213, job 166 exit the cpu
+at time: 3214, job 103 exit the cpu
+at time: 3239, job 167 arrival in the system
+at time: 3239, job 167 arrival cpu
+at time: 3241, job 102 arr the disk2
+at time: 3241, job 167 exit the cpu
+at time: 3241, job 102 arrival cpu
+at time: 3241, job 66 arrvial the disk2
+at time: 3242, job 102 exit the cpu
+at time: 3242, job 102 exit the system
+at time: 3261, job 105 exit the disk1
+at time: 3261, job 105 arrival cpu
+at time: 3261, job 105 arrvial the disk1
+at time: 3262, job 66 arr the disk2
+at time: 3262, job 105 exit the cpu
+at time: 3262, job 66 arrival cpu
+at time: 3262, job 66 arrvial the disk2
+at time: 3263, job 168 arrival in the system
+at time: 3263, job 168 arrival cpu
+at time: 3265, job 66 exit the cpu
+at time: 3266, job 168 exit the cpu
+at time: 3266, job 168 exit the system
+at time: 3290, job 169 arrival in the system
+at time: 3290, job 169 arrival cpu
+at time: 3291, job 105 exit the disk1
+at time: 3291, job 105 arrival cpu
+at time: 3291, job 25 arrvial the disk1
+at time: 3292, job 105 exit the cpu
+at time: 3294, job 169 exit the cpu
+at time: 3306, job 170 arrival in the system
+at time: 3306, job 170 arrival cpu
+at time: 3308, job 170 exit the cpu
+at time: 3311, job 66 arr the disk2
+at time: 3311, job 66 arrival cpu
+at time: 3311, job 104 arrvial the disk2
+at time: 3315, job 66 exit the cpu
+at time: 3328, job 171 arrival in the system
+at time: 3328, job 171 arrival cpu
+at time: 3331, job 25 exit the disk1
+at time: 3331, job 25 arrival cpu
+at time: 3331, job 25 arrvial the disk1
+at time: 3332, job 171 exit the cpu
+at time: 3332, job 25 exit the cpu
+at time: 3338, job 172 arrival in the system
+at time: 3338, job 172 arrival cpu
+at time: 3340, job 172 exit the cpu
+at time: 3340, job 172 exit the system
+at time: 3359, job 104 arr the disk2
+at time: 3359, job 104 arrival cpu
+at time: 3359, job 104 arrvial the disk2
+at time: 3360, job 173 arrival in the system
+at time: 3361, job 25 exit the disk1
+at time: 3361, job 104 exit the cpu
+at time: 3361, job 71 arrvial the disk1
+at time: 3361, job 3 arrival cpu
+at time: 3362, job 3 exit the cpu
+at time: 3362, job 3 exit the system
+at time: 3362, job 80 arrival cpu
+at time: 3365, job 80 exit the cpu
+at time: 3371, job 174 arrival in the system
+at time: 3371, job 174 arrival cpu
+at time: 3372, job 174 exit the cpu
+at time: 3382, job 71 exit the disk1
+at time: 3382, job 71 arrival cpu
+at time: 3382, job 71 arrvial the disk1
+at time: 3383, job 71 exit the cpu
+at time: 3383, job 71 exit the system
+at time: 3386, job 104 arr the disk2
+at time: 3386, job 104 arrival cpu
+at time: 3386, job 65 arrvial the disk2
+at time: 3388, job 175 arrival in the system
+at time: 3390, job 104 exit the cpu
+at time: 3390, job 104 exit the system
+at time: 3390, job 80 arrival cpu
+at time: 3393, job 80 exit the cpu
+at time: 3399, job 176 arrival in the system
+at time: 3399, job 176 arrival cpu
+at time: 3402, job 176 exit the cpu
+at time: 3415, job 65 arr the disk2
+at time: 3415, job 65 arrival cpu
+at time: 3415, job 65 arrvial the disk2
+at time: 3416, job 71 exit the disk1
+at time: 3416, job 65 exit the cpu
+at time: 3416, job 71 arrival cpu
+at time: 3416, job 73 arrvial the disk1
+at time: 3419, job 71 exit the cpu
+at time: 3419, job 71 exit the system
+at time: 3425, job 177 arrival in the system
+at time: 3425, job 177 arrival cpu
+at time: 3428, job 177 exit the cpu
+at time: 3435, job 65 arr the disk2
+at time: 3435, job 65 arrival cpu
+at time: 3435, job 106 arrvial the disk2
+at time: 3439, job 65 exit the cpu
+at time: 3441, job 73 exit the disk1
+at time: 3441, job 178 arrival in the system
+at time: 3441, job 73 arrival cpu
+at time: 3441, job 73 arrvial the disk1
+at time: 3443, job 73 exit the cpu
+at time: 3443, job 80 arrival cpu
+at time: 3445, job 80 exit the cpu
+at time: 3445, job 80 exit the system
+at time: 3463, job 179 arrival in the system
+at time: 3463, job 179 arrival cpu
+at time: 3465, job 179 exit the cpu
+at time: 3474, job 106 arr the disk2
+at time: 3474, job 73 exit the disk1
+at time: 3474, job 106 arrival cpu
+at time: 3474, job 106 arrvial the disk2
+at time: 3474, job 73 arrival cpu
+at time: 3474, job 25 arrvial the disk1
+at time: 3478, job 106 exit the cpu
+at time: 3478, job 106 exit the system
+at time: 3478, job 73 exit the cpu
+at time: 3484, job 180 arrival in the system
+at time: 3484, job 180 arrival cpu
+at time: 3486, job 180 exit the cpu
+at time: 3511, job 25 exit the disk1
+at time: 3511, job 25 arrival cpu
+at time: 3511, job 112 arrvial the disk1
+at time: 3512, job 181 arrival in the system
+at time: 3515, job 25 exit the cpu
+at time: 3515, job 80 arrival cpu
+at time: 3516, job 80 exit the cpu
+at time: 3522, job 106 arr the disk2
+at time: 3522, job 106 arrival cpu
+at time: 3522, job 73 arrvial the disk2
+at time: 3526, job 106 exit the cpu
+at time: 3530, job 182 arrival in the system
+at time: 3530, job 182 arrival cpu
+at time: 3532, job 182 exit the cpu
+at time: 3544, job 112 exit the disk1
+at time: 3544, job 112 arrival cpu
+at time: 3544, job 112 arrvial the disk1
+at time: 3546, job 112 exit the cpu
+at time: 3558, job 73 arr the disk2
+at time: 3558, job 183 arrival in the system
+at time: 3558, job 73 arrival cpu
+at time: 3558, job 108 arrvial the disk2
+at time: 3562, job 73 exit the cpu
+at time: 3562, job 73 exit the system
+at time: 3562, job 131 arrival cpu
+at time: 3565, job 131 exit the cpu
+at time: 3578, job 184 arrival in the system
+at time: 3578, job 184 arrival cpu
+at time: 3581, job 184 exit the cpu
+at time: 3581, job 184 exit the system
+at time: 3585, job 30 exit the network
+at time: 3585, job 112 exit the disk1
+at time: 3585, job 30 arrival cpu
+at time: 3585, job 3 arrival the net
+at time: 3585, job 112 arrival cpu
+at time: 3585, job 16 arrvial the disk1
+at time: 3587, job 112 exit the cpu
+at time: 3588, job 108 arr the disk2
+at time: 3588, job 108 arrival cpu
+at time: 3588, job 108 arrvial the disk2
+at time: 3589, job 30 exit the cpu
+at time: 3591, job 108 exit the cpu
+at time: 3592, job 185 arrival in the system
+at time: 3592, job 185 arrival cpu
+at time: 3594, job 185 exit the cpu
+at time: 3609, job 16 exit the disk1
+at time: 3609, job 108 arr the disk2
+at time: 3609, job 16 arrival cpu
+at time: 3609, job 113 arrvial the disk1
+at time: 3609, job 108 arrival cpu
+at time: 3609, job 110 arrvial the disk2
+at time: 3610, job 16 exit the cpu
+at time: 3611, job 108 exit the cpu
+at time: 3611, job 108 exit the system
+at time: 3621, job 186 arrival in the system
+at time: 3621, job 186 arrival cpu
+at time: 3622, job 186 exit the cpu
+at time: 3638, job 187 arrival in the system
+at time: 3638, job 187 arrival cpu
+at time: 3641, job 187 exit the cpu
+at time: 3644, job 110 arr the disk2
+at time: 3644, job 110 arrival cpu
+at time: 3644, job 110 arrvial the disk2
+at time: 3645, job 113 exit the disk1
+at time: 3645, job 113 arrival cpu
+at time: 3645, job 113 arrvial the disk1
+at time: 3648, job 110 exit the cpu
+at time: 3648, job 110 exit the system
+at time: 3648, job 113 exit the cpu
+at time: 3648, job 113 exit the system
+at time: 3657, job 188 arrival in the system
+at time: 3657, job 188 arrival cpu
+at time: 3659, job 188 exit the cpu
+at time: 3666, job 110 arr the disk2
+at time: 3666, job 110 arrival cpu
+at time: 3666, job 111 arrvial the disk2
+at time: 3667, job 110 exit the cpu
+at time: 3670, job 189 arrival in the system
+at time: 3670, job 189 arrival cpu
+at time: 3672, job 189 exit the cpu
+at time: 3682, job 113 exit the disk1
+at time: 3682, job 190 arrival in the system
+at time: 3682, job 113 arrival cpu
+at time: 3682, job 113 arrvial the disk1
+at time: 3683, job 113 exit the cpu
+at time: 3683, job 131 arrival cpu
+at time: 3685, job 131 exit the cpu
+at time: 3685, job 131 exit the system
+at time: 3699, job 111 arr the disk2
+at time: 3699, job 111 arrival cpu
+at time: 3699, job 111 arrvial the disk2
+at time: 3702, job 111 exit the cpu
+at time: 3709, job 191 arrival in the system
+at time: 3709, job 191 arrival cpu
+at time: 3710, job 191 exit the cpu
+at time: 3710, job 191 exit the system
+at time: 3719, job 111 arr the disk2
+at time: 3719, job 111 arrival cpu
+at time: 3719, job 25 arrvial the disk2
+at time: 3720, job 113 exit the disk1
+at time: 3720, job 113 arrival cpu
+at time: 3720, job 75 arrvial the disk1
+at time: 3722, job 111 exit the cpu
+at time: 3724, job 192 arrival in the system
+at time: 3724, job 113 exit the cpu
+at time: 3724, job 113 exit the system
+at time: 3724, job 192 arrival cpu
+at time: 3728, job 192 exit the cpu
+at time: 3736, job 193 arrival in the system
+at time: 3736, job 193 arrival cpu
+at time: 3739, job 193 exit the cpu
+at time: 3739, job 193 exit the system
+at time: 3747, job 194 arrival in the system
+at time: 3747, job 194 arrival cpu
+at time: 3748, job 25 arr the disk2
+at time: 3748, job 25 arrival cpu
+at time: 3748, job 5 arrvial the disk2
+at time: 3750, job 194 exit the cpu
+at time: 3752, job 25 exit the cpu
+at time: 3752, job 25 exit the system
+at time: 3757, job 195 arrival in the system
+at time: 3757, job 195 arrival cpu
+at time: 3760, job 195 exit the cpu
+at time: 3768, job 75 exit the disk1
+at time: 3768, job 75 arrival cpu
+at time: 3768, job 118 arrvial the disk1
+at time: 3770, job 196 arrival in the system
+at time: 3770, job 75 exit the cpu
+at time: 3770, job 75 exit the system
+at time: 3770, job 132 arrival cpu
+at time: 3772, job 132 exit the cpu
+at time: 3787, job 5 arr the disk2
+at time: 3787, job 5 arrival cpu
+at time: 3787, job 5 arrvial the disk2
+at time: 3789, job 5 exit the cpu
+at time: 3790, job 197 arrival in the system
+at time: 3790, job 197 arrival cpu
+at time: 3792, job 197 exit the cpu
+at time: 3808, job 5 arr the disk2
+at time: 3808, job 5 arrival cpu
+at time: 3808, job 57 arrvial the disk2
+at time: 3809, job 118 exit the disk1
+at time: 3809, job 118 arrival cpu
+at time: 3809, job 118 arrvial the disk1
+at time: 3810, job 198 arrival in the system
+at time: 3810, job 5 exit the cpu
+at time: 3810, job 118 exit the cpu
+at time: 3810, job 118 exit the system
+at time: 3810, job 132 arrival cpu
+at time: 3811, job 132 exit the cpu
+at time: 3832, job 118 exit the disk1
+at time: 3832, job 118 arrival cpu
+at time: 3832, job 119 arrvial the disk1
+at time: 3835, job 199 arrival in the system
+at time: 3835, job 118 exit the cpu
+at time: 3835, job 133 arrival cpu
+at time: 3838, job 133 exit the cpu
+at time: 3839, job 57 arr the disk2
+at time: 3839, job 57 arrival cpu
+at time: 3839, job 57 arrvial the disk2
+at time: 3842, job 57 exit the cpu
+at time: 3857, job 200 arrival in the system
+at time: 3857, job 200 arrival cpu
+at time: 3861, job 200 exit the cpu
+at time: 3874, job 201 arrival in the system
+at time: 3874, job 201 arrival cpu
+at time: 3878, job 201 exit the cpu
+at time: 3881, job 119 exit the disk1
+at time: 3881, job 119 arrival cpu
+at time: 3881, job 119 arrvial the disk1
+at time: 3882, job 57 arr the disk2
+at time: 3882, job 57 arrival cpu
+at time: 3882, job 57 arrvial the disk2
+at time: 3885, job 119 exit the cpu
+at time: 3885, job 57 exit the cpu
+at time: 3885, job 57 exit the system
+at time: 3893, job 202 arrival in the system
+at time: 3893, job 202 arrival cpu
+at time: 3897, job 202 exit the cpu
+at time: 3912, job 57 arr the disk2
+at time: 3912, job 203 arrival in the system
+at time: 3912, job 57 arrival cpu
+at time: 3912, job 57 arrvial the disk2
+at time: 3915, job 119 exit the disk1
+at time: 3915, job 120 arrvial the disk1
+at time: 3916, job 57 exit the cpu
+at time: 3916, job 133 arrival cpu
+at time: 3919, job 133 exit the cpu
+at time: 3919, job 135 arrival cpu
+at time: 3921, job 135 exit the cpu
+at time: 3923, job 204 arrival in the system
+at time: 3923, job 204 arrival cpu
+at time: 3926, job 204 exit the cpu
+at time: 3938, job 120 exit the disk1
+at time: 3938, job 120 arrival cpu
+at time: 3938, job 120 arrvial the disk1
+at time: 3939, job 120 exit the cpu
+at time: 3946, job 57 arr the disk2
+at time: 3946, job 57 arrival cpu
+at time: 3946, job 3 arrvial the disk2
+at time: 3950, job 57 exit the cpu
+at time: 3950, job 57 exit the system
+at time: 3952, job 205 arrival in the system
+at time: 3952, job 205 arrival cpu
+at time: 3953, job 205 exit the cpu
+at time: 3972, job 120 exit the disk1
+at time: 3972, job 120 arrival cpu
+at time: 3972, job 120 arrvial the disk1
+at time: 3974, job 120 exit the cpu
+at time: 3975, job 206 arrival in the system
+at time: 3975, job 206 arrival cpu
+at time: 3978, job 206 exit the cpu
+at time: 3978, job 206 exit the system
+at time: 3979, job 3 arr the disk2
+at time: 3979, job 3 arrival cpu
+at time: 3979, job 79 arrvial the disk2
+at time: 3983, job 3 exit the cpu
+at time: 3996, job 120 exit the disk1
+at time: 3996, job 120 arrival cpu
+at time: 3996, job 78 arrvial the disk1
+at time: 3998, job 120 exit the cpu
+at time: 4004, job 3 exit the network
+at time: 4004, job 207 arrival in the system
+at time: 4004, job 79 arr the disk2
+at time: 4004, job 3 arrival cpu
+at time: 4004, job 33 arrival the net
+at time: 4004, job 79 arrvial the disk2
+at time: 4007, job 3 exit the cpu
+at time: 4007, job 135 arrival cpu
+at time: 4010, job 135 exit the cpu
+at time: 4010, job 135 exit the system
+at time: 4010, job 141 arrival cpu
+at time: 4011, job 141 exit the cpu
+at time: 4011, job 141 exit the system
+at time: 4021, job 208 arrival in the system
+at time: 4021, job 208 arrival cpu
+at time: 4023, job 208 exit the cpu
+at time: 4023, job 208 exit the system
+at time: 4035, job 78 exit the disk1
+at time: 4035, job 78 arrival cpu
+at time: 4035, job 79 arrvial the disk1
+at time: 4036, job 79 arr the disk2
+at time: 4036, job 79 arrival cpu
+at time: 4036, job 121 arrvial the disk2
+at time: 4037, job 79 exit the cpu
+at time: 4037, job 79 exit the system
+at time: 4039, job 78 exit the cpu
+at time: 4039, job 78 exit the system
+at time: 4042, job 209 arrival in the system
+at time: 4042, job 209 arrival cpu
+at time: 4046, job 209 exit the cpu
+at time: 4055, job 210 arrival in the system
+at time: 4055, job 210 arrival cpu
+at time: 4058, job 210 exit the cpu
+at time: 4067, job 121 arr the disk2
+at time: 4067, job 121 arrival cpu
+at time: 4067, job 121 arrvial the disk2
+at time: 4068, job 121 exit the cpu
+at time: 4071, job 79 exit the disk1
+at time: 4071, job 79 arrival cpu
+at time: 4071, job 79 arrvial the disk1
+at time: 4073, job 211 arrival in the system
+at time: 4075, job 79 exit the cpu
+at time: 4075, job 17 arrival cpu
+at time: 4078, job 17 exit the cpu
+at time: 4092, job 121 arr the disk2
+at time: 4092, job 121 arrival cpu
+at time: 4092, job 122 arrvial the disk2
+at time: 4094, job 212 arrival in the system
+at time: 4095, job 121 exit the cpu
+at time: 4095, job 17 arrival cpu
+at time: 4098, job 17 exit the cpu
+at time: 4098, job 17 exit the system
+at time: 4100, job 79 exit the disk1
+at time: 4100, job 79 arrival cpu
+at time: 4100, job 79 arrvial the disk1
+at time: 4101, job 79 exit the cpu
+at time: 4118, job 213 arrival in the system
+at time: 4118, job 213 arrival cpu
+at time: 4119, job 213 exit the cpu
+at time: 4120, job 122 arr the disk2
+at time: 4120, job 122 arrival cpu
+at time: 4120, job 122 arrvial the disk2
+at time: 4123, job 122 exit the cpu
+at time: 4127, job 79 exit the disk1
+at time: 4127, job 79 arrival cpu
+at time: 4127, job 59 arrvial the disk1
+at time: 4129, job 214 arrival in the system
+at time: 4131, job 79 exit the cpu
+at time: 4131, job 17 arrival cpu
+at time: 4133, job 17 exit the cpu
+at time: 4133, job 17 exit the system
+at time: 4152, job 215 arrival in the system
+at time: 4152, job 215 arrival cpu
+at time: 4154, job 215 exit the cpu
+at time: 4154, job 215 exit the system
+at time: 4164, job 122 arr the disk2
+at time: 4164, job 59 exit the disk1
+at time: 4164, job 122 arrival cpu
+at time: 4164, job 122 arrvial the disk2
+at time: 4164, job 59 arrival cpu
+at time: 4164, job 59 arrvial the disk1
+at time: 4165, job 59 exit the cpu
+at time: 4166, job 122 exit the cpu
+at time: 4173, job 216 arrival in the system
+at time: 4173, job 216 arrival cpu
+at time: 4177, job 216 exit the cpu
+at time: 4185, job 217 arrival in the system
+at time: 4185, job 217 arrival cpu
+at time: 4189, job 217 exit the cpu
+at time: 4189, job 217 exit the system
+at time: 4203, job 59 exit the disk1
+at time: 4203, job 59 arrival cpu
+at time: 4203, job 130 arrvial the disk1
+at time: 4204, job 218 arrival in the system
+at time: 4204, job 59 exit the cpu
+at time: 4204, job 143 arrival cpu
+at time: 4206, job 143 exit the cpu
+at time: 4210, job 122 arr the disk2
+at time: 4210, job 122 arrival cpu
+at time: 4210, job 125 arrvial the disk2
+at time: 4211, job 122 exit the cpu
+at time: 4225, job 130 exit the disk1
+at time: 4225, job 219 arrival in the system
+at time: 4225, job 130 arrival cpu
+at time: 4225, job 130 arrvial the disk1
+at time: 4228, job 130 exit the cpu
+at time: 4228, job 130 exit the system
+at time: 4228, job 143 arrival cpu
+at time: 4231, job 125 arr the disk2
+at time: 4231, job 143 exit the cpu
+at time: 4231, job 125 arrival cpu
+at time: 4231, job 125 arrvial the disk2
+at time: 4232, job 125 exit the cpu
+at time: 4232, job 125 exit the system
+at time: 4241, job 33 exit the network
+at time: 4241, job 33 arrival cpu
+at time: 4241, job 20 arrival the net
+at time: 4242, job 220 arrival in the system
+at time: 4244, job 33 exit the cpu
+at time: 4244, job 147 arrival cpu
+at time: 4245, job 147 exit the cpu
+at time: 4245, job 147 exit the system
+at time: 4254, job 125 arr the disk2
+at time: 4254, job 125 arrival cpu
+at time: 4254, job 70 arrvial the disk2
+at time: 4256, job 125 exit the cpu
+at time: 4262, job 221 arrival in the system
+at time: 4262, job 221 arrival cpu
+at time: 4263, job 130 exit the disk1
+at time: 4263, job 130 arrival cpu
+at time: 4263, job 80 arrvial the disk1
+at time: 4266, job 221 exit the cpu
+at time: 4266, job 130 exit the cpu
+at time: 4266, job 130 exit the system
+at time: 4289, job 222 arrival in the system
+at time: 4289, job 222 arrival cpu
+at time: 4293, job 222 exit the cpu
+at time: 4293, job 222 exit the system
+at time: 4296, job 70 arr the disk2
+at time: 4296, job 70 arrival cpu
+at time: 4296, job 70 arrvial the disk2
+at time: 4298, job 70 exit the cpu
+at time: 4303, job 80 exit the disk1
+at time: 4303, job 80 arrival cpu
+at time: 4303, job 80 arrvial the disk1
+at time: 4306, job 80 exit the cpu
+at time: 4312, job 223 arrival in the system
+at time: 4312, job 223 arrival cpu
+at time: 4316, job 223 exit the cpu
+at time: 4320, job 70 arr the disk2
+at time: 4320, job 70 arrival cpu
+at time: 4320, job 70 arrvial the disk2
+at time: 4322, job 70 exit the cpu
+at time: 4322, job 70 exit the system
+at time: 4327, job 224 arrival in the system
+at time: 4327, job 224 arrival cpu
+at time: 4330, job 224 exit the cpu
+at time: 4330, job 224 exit the system
+at time: 4346, job 80 exit the disk1
+at time: 4346, job 80 arrival cpu
+at time: 4346, job 80 arrvial the disk1
+at time: 4347, job 80 exit the cpu
+at time: 4351, job 225 arrival in the system
+at time: 4351, job 225 arrival cpu
+at time: 4352, job 70 arr the disk2
+at time: 4352, job 70 arrival cpu
+at time: 4352, job 62 arrvial the disk2
+at time: 4354, job 225 exit the cpu
+at time: 4356, job 70 exit the cpu
+at time: 4356, job 70 exit the system
+at time: 4368, job 80 exit the disk1
+at time: 4368, job 80 arrival cpu
+at time: 4370, job 80 exit the cpu
+at time: 4370, job 80 exit the system
+at time: 4373, job 226 arrival in the system
+at time: 4373, job 226 arrival cpu
+at time: 4374, job 226 exit the cpu
+at time: 4383, job 62 arr the disk2
+at time: 4383, job 62 arrival cpu
+at time: 4383, job 62 arrvial the disk2
+at time: 4385, job 227 arrival in the system
+at time: 4386, job 62 exit the cpu
+at time: 4386, job 147 arrival cpu
+at time: 4390, job 147 exit the cpu
+at time: 4390, job 147 arrvial the disk1
+at time: 4407, job 62 arr the disk2
+at time: 4407, job 62 arrival cpu
+at time: 4409, job 62 exit the cpu
+at time: 4409, job 62 exit the system
+at time: 4411, job 228 arrival in the system
+at time: 4411, job 228 arrival cpu
+at time: 4414, job 228 exit the cpu
+at time: 4414, job 228 arrvial the disk2
+at time: 4421, job 229 arrival in the system
+at time: 4421, job 229 arrival cpu
+at time: 4425, job 229 exit the cpu
+at time: 4433, job 147 exit the disk1
+at time: 4433, job 147 arrival cpu
+at time: 4435, job 147 exit the cpu
+at time: 4436, job 228 arr the disk2
+at time: 4436, job 228 arrival cpu
+at time: 4436, job 62 arrvial the disk2
+at time: 4440, job 228 exit the cpu
+at time: 4440, job 228 exit the system
+at time: 4447, job 230 arrival in the system
+at time: 4447, job 230 arrival cpu
+at time: 4449, job 230 exit the cpu
+at time: 4449, job 230 arrvial the disk1
+at time: 4458, job 231 arrival in the system
+at time: 4458, job 231 arrival cpu
+at time: 4459, job 231 exit the cpu
+at time: 4459, job 231 exit the system
+at time: 4468, job 232 arrival in the system
+at time: 4468, job 232 arrival cpu
+at time: 4469, job 232 exit the cpu
+at time: 4475, job 230 exit the disk1
+at time: 4475, job 230 arrival cpu
+at time: 4477, job 230 exit the cpu
+at time: 4477, job 230 arrvial the disk1
+at time: 4481, job 233 arrival in the system
+at time: 4481, job 233 arrival cpu
+at time: 4484, job 62 arr the disk2
+at time: 4484, job 62 arrival cpu
+at time: 4484, job 84 arrvial the disk2
+at time: 4485, job 233 exit the cpu
+at time: 4488, job 62 exit the cpu
+at time: 4488, job 62 exit the system
+at time: 4507, job 230 exit the disk1
+at time: 4507, job 230 arrival cpu
+at time: 4508, job 230 exit the cpu
+at time: 4508, job 230 exit the system
+at time: 4510, job 234 arrival in the system
+at time: 4510, job 234 arrival cpu
+at time: 4512, job 234 exit the cpu
+at time: 4512, job 234 arrvial the disk1
+at time: 4518, job 84 arr the disk2
+at time: 4518, job 84 arrival cpu
+at time: 4518, job 84 arrvial the disk2
+at time: 4522, job 84 exit the cpu
+at time: 4531, job 235 arrival in the system
+at time: 4531, job 235 arrival cpu
+at time: 4534, job 235 exit the cpu
+at time: 4534, job 235 exit the system
+at time: 4540, job 20 exit the network
+at time: 4540, job 20 arrival cpu
+at time: 4540, job 21 arrival the net
+at time: 4542, job 84 arr the disk2
+at time: 4542, job 84 arrival cpu
+at time: 4542, job 84 arrvial the disk2
+at time: 4544, job 20 exit the cpu
+at time: 4546, job 84 exit the cpu
+at time: 4547, job 236 arrival in the system
+at time: 4547, job 236 arrival cpu
+at time: 4551, job 236 exit the cpu
+at time: 4552, job 234 exit the disk1
+at time: 4552, job 234 arrival cpu
+at time: 4554, job 234 exit the cpu
+at time: 4554, job 234 exit the system
+at time: 4558, job 237 arrival in the system
+at time: 4558, job 237 arrival cpu
+at time: 4561, job 237 exit the cpu
+at time: 4561, job 237 exit the system
+at time: 4569, job 84 arr the disk2
+at time: 4569, job 84 arrival cpu
+at time: 4569, job 137 arrvial the disk2
+at time: 4573, job 84 exit the cpu
+at time: 4573, job 84 exit the system
+at time: 4575, job 238 arrival in the system
+at time: 4575, job 238 arrival cpu
+at time: 4579, job 238 exit the cpu
+at time: 4590, job 137 arr the disk2
+at time: 4590, job 137 arrival cpu
+at time: 4593, job 239 arrival in the system
+at time: 4594, job 137 exit the cpu
+at time: 4594, job 149 arrival cpu
+at time: 4594, job 137 arrvial the disk1
+at time: 4597, job 149 exit the cpu
+at time: 4597, job 149 arrvial the disk2
+at time: 4621, job 240 arrival in the system
+at time: 4621, job 240 arrival cpu
+at time: 4624, job 137 exit the disk1
+at time: 4624, job 240 exit the cpu
+at time: 4624, job 137 arrival cpu
+at time: 4624, job 240 arrvial the disk1
+at time: 4628, job 137 exit the cpu
+at time: 4637, job 241 arrival in the system
+at time: 4637, job 241 arrival cpu
+at time: 4639, job 241 exit the cpu
+at time: 4645, job 149 arr the disk2
+at time: 4645, job 149 arrival cpu
+at time: 4645, job 137 arrvial the disk2
+at time: 4648, job 149 exit the cpu
+at time: 4657, job 242 arrival in the system
+at time: 4657, job 242 arrival cpu
+at time: 4658, job 242 exit the cpu
+at time: 4662, job 240 exit the disk1
+at time: 4662, job 240 arrival cpu
+at time: 4662, job 90 arrvial the disk1
+at time: 4664, job 240 exit the cpu
+at time: 4671, job 137 arr the disk2
+at time: 4671, job 137 arrival cpu
+at time: 4671, job 97 arrvial the disk2
+at time: 4672, job 243 arrival in the system
+at time: 4672, job 137 exit the cpu
+at time: 4672, job 137 exit the system
+at time: 4672, job 149 arrival cpu
+at time: 4675, job 149 exit the cpu
+at time: 4675, job 149 exit the system
+at time: 4688, job 90 exit the disk1
+at time: 4688, job 90 arrival cpu
+at time: 4688, job 90 arrvial the disk1
+at time: 4692, job 90 exit the cpu
+at time: 4692, job 90 exit the system
+at time: 4694, job 244 arrival in the system
+at time: 4694, job 244 arrival cpu
+at time: 4696, job 244 exit the cpu
+at time: 4698, job 97 arr the disk2
+at time: 4698, job 97 arrival cpu
+at time: 4698, job 97 arrvial the disk2
+at time: 4702, job 97 exit the cpu
+at time: 4717, job 245 arrival in the system
+at time: 4717, job 245 arrival cpu
+at time: 4720, job 245 exit the cpu
+at time: 4725, job 90 exit the disk1
+at time: 4725, job 90 arrival cpu
+at time: 4728, job 90 exit the cpu
+at time: 4728, job 90 arrvial the disk1
+at time: 4734, job 246 arrival in the system
+at time: 4734, job 246 arrival cpu
+at time: 4738, job 246 exit the cpu
+at time: 4738, job 246 exit the system
+at time: 4743, job 97 arr the disk2
+at time: 4743, job 97 arrival cpu
+at time: 4743, job 97 arrvial the disk2
+at time: 4744, job 97 exit the cpu
+at time: 4758, job 247 arrival in the system
+at time: 4758, job 247 arrival cpu
+at time: 4760, job 247 exit the cpu
+at time: 4760, job 247 exit the system
+at time: 4764, job 90 exit the disk1
+at time: 4764, job 90 arrival cpu
+at time: 4765, job 90 exit the cpu
+at time: 4765, job 90 arrvial the disk1
+at time: 4771, job 248 arrival in the system
+at time: 4771, job 248 arrival cpu
+at time: 4773, job 248 exit the cpu
+at time: 4773, job 248 exit the system
+at time: 4781, job 97 arr the disk2
+at time: 4781, job 97 arrival cpu
+at time: 4781, job 97 arrvial the disk2
+at time: 4783, job 97 exit the cpu
+at time: 4783, job 97 exit the system
+at time: 4786, job 249 arrival in the system
+at time: 4786, job 249 arrival cpu
+at time: 4788, job 249 exit the cpu
+at time: 4805, job 250 arrival in the system
+at time: 4805, job 250 arrival cpu
+at time: 4806, job 250 exit the cpu
+at time: 4806, job 250 exit the system
+at time: 4809, job 90 exit the disk1
+at time: 4809, job 90 arrival cpu
+at time: 4811, job 90 exit the cpu
+at time: 4811, job 90 arrvial the disk1
+at time: 4829, job 97 arr the disk2
+at time: 4829, job 251 arrival in the system
+at time: 4829, job 97 arrival cpu
+at time: 4829, job 27 arrvial the disk2
+at time: 4832, job 97 exit the cpu
+at time: 4832, job 162 arrival cpu
+at time: 4833, job 162 exit the cpu
+at time: 4833, job 162 exit the system
+at time: 4836, job 90 exit the disk1
+at time: 4836, job 90 arrival cpu
+at time: 4838, job 90 exit the cpu
+at time: 4838, job 90 arrvial the disk1
+at time: 4845, job 252 arrival in the system
+at time: 4845, job 252 arrival cpu
+at time: 4849, job 252 exit the cpu
+at time: 4861, job 253 arrival in the system
+at time: 4861, job 253 arrival cpu
+at time: 4862, job 253 exit the cpu
+at time: 4865, job 27 arr the disk2
+at time: 4865, job 27 arrival cpu
+at time: 4865, job 145 arrvial the disk2
+at time: 4869, job 27 exit the cpu
+at time: 4869, job 27 exit the system
+at time: 4884, job 254 arrival in the system
+at time: 4884, job 254 arrival cpu
+at time: 4887, job 90 exit the disk1
+at time: 4887, job 254 exit the cpu
+at time: 4887, job 90 arrival cpu
+at time: 4887, job 91 arrvial the disk1
+at time: 4888, job 145 arr the disk2
+at time: 4888, job 145 arrival cpu
+at time: 4888, job 145 arrvial the disk2
+at time: 4889, job 90 exit the cpu
+at time: 4889, job 145 exit the cpu
+at time: 4889, job 145 exit the system
+at time: 4894, job 255 arrival in the system
+at time: 4894, job 255 arrival cpu
+at time: 4897, job 255 exit the cpu
+at time: 4910, job 91 exit the disk1
+at time: 4910, job 91 arrival cpu
+at time: 4910, job 91 arrvial the disk1
+at time: 4911, job 91 exit the cpu
+at time: 4911, job 91 exit the system
+at time: 4919, job 256 arrival in the system
+at time: 4919, job 256 arrival cpu
+at time: 4921, job 256 exit the cpu
+at time: 4936, job 145 arr the disk2
+at time: 4936, job 145 arrival cpu
+at time: 4936, job 27 arrvial the disk2
+at time: 4940, job 145 exit the cpu
+at time: 4947, job 257 arrival in the system
+at time: 4947, job 257 arrival cpu
+at time: 4949, job 257 exit the cpu
+at time: 4950, job 91 exit the disk1
+at time: 4950, job 91 arrival cpu
+at time: 4950, job 55 arrvial the disk1
+at time: 4954, job 91 exit the cpu
+at time: 4965, job 258 arrival in the system
+at time: 4965, job 258 arrival cpu
+at time: 4968, job 258 exit the cpu
+at time: 4968, job 258 exit the system
+at time: 4970, job 27 arr the disk2
+at time: 4970, job 27 arrival cpu
+at time: 4970, job 27 arrvial the disk2
+at time: 4973, job 27 exit the cpu
+at time: 4987, job 259 arrival in the system
+at time: 4987, job 259 arrival cpu
+at time: 4991, job 259 exit the cpu
+at time: 4994, job 27 arr the disk2
+at time: 4994, job 27 arrival cpu
+at time: 4994, job 18 arrvial the disk2
+at time: 4995, job 27 exit the cpu
+at time: 4996, job 55 exit the disk1
+at time: 4996, job 55 arrival cpu
+at time: 4996, job 55 arrvial the disk1
+at time: 4998, job 55 exit the cpu
+at time: 4998, job 55 exit the system
+at time: 5013, job 260 arrival in the system
+at time: 5013, job 260 arrival cpu
+at time: 5017, job 55 exit the disk1
+at time: 5017, job 260 exit the cpu
+at time: 5017, job 55 arrival cpu
+at time: 5018, job 18 arr the disk2
+at time: 5018, job 18 arrival cpu
+at time: 5018, job 18 arrvial the disk2
+at time: 5020, job 18 exit the cpu
+at time: 5020, job 18 arrvial the disk1
+at time: 5021, job 55 exit the cpu
+at time: 5024, job 261 arrival in the system
+at time: 5024, job 261 arrival cpu
+at time: 5025, job 261 exit the cpu
+at time: 5031, job 21 exit the network
+at time: 5031, job 21 arrival cpu
+at time: 5031, job 38 arrival the net
+at time: 5033, job 21 exit the cpu
+at time: 5033, job 21 exit the system
+at time: 5053, job 262 arrival in the system
+at time: 5053, job 262 arrival cpu
+at time: 5054, job 262 exit the cpu
+at time: 5060, job 18 arr the disk2
+at time: 5060, job 18 exit the disk1
+at time: 5060, job 18 arrival cpu
+at time: 5060, job 18 arrvial the disk2
+at time: 5060, job 18 arrival cpu
+at time: 5060, job 92 arrvial the disk1
+at time: 5061, job 18 exit the cpu
+at time: 5063, job 18 exit the cpu
+at time: 5063, job 18 exit the system
+at time: 5078, job 263 arrival in the system
+at time: 5078, job 263 arrival cpu
+at time: 5082, job 263 exit the cpu
+at time: 5088, job 264 arrival in the system
+at time: 5088, job 264 arrival cpu
+at time: 5089, job 264 exit the cpu
+at time: 5093, job 92 exit the disk1
+at time: 5093, job 92 arrival cpu
+at time: 5093, job 92 arrvial the disk1
+at time: 5096, job 92 exit the cpu
+at time: 5100, job 18 arr the disk2
+at time: 5100, job 18 arrival cpu
+at time: 5100, job 18 arrvial the disk2
+at time: 5104, job 18 exit the cpu
+at time: 5112, job 265 arrival in the system
+at time: 5112, job 265 arrival cpu
+at time: 5114, job 265 exit the cpu
+at time: 5126, job 92 exit the disk1
+at time: 5126, job 92 arrival cpu
+at time: 5126, job 92 arrvial the disk1
+at time: 5129, job 92 exit the cpu
+at time: 5130, job 18 arr the disk2
+at time: 5130, job 18 arrival cpu
+at time: 5130, job 96 arrvial the disk2
+at time: 5134, job 18 exit the cpu
+at time: 5135, job 266 arrival in the system
+at time: 5135, job 266 arrival cpu
+at time: 5137, job 266 exit the cpu
+at time: 5137, job 266 exit the system
+at time: 5150, job 92 exit the disk1
+at time: 5150, job 92 arrival cpu
+at time: 5150, job 89 arrvial the disk1
+at time: 5152, job 92 exit the cpu
+at time: 5156, job 267 arrival in the system
+at time: 5156, job 267 arrival cpu
+at time: 5160, job 267 exit the cpu
+at time: 5168, job 96 arr the disk2
+at time: 5168, job 96 arrival cpu
+at time: 5168, job 96 arrvial the disk2
+at time: 5170, job 96 exit the cpu
+at time: 5170, job 96 exit the system
+at time: 5178, job 89 exit the disk1
+at time: 5178, job 89 arrival cpu
+at time: 5178, job 89 arrvial the disk1
+at time: 5179, job 268 arrival in the system
+at time: 5179, job 89 exit the cpu
+at time: 5179, job 89 exit the system
+at time: 5179, job 162 arrival cpu
+at time: 5180, job 162 exit the cpu
+at time: 5195, job 269 arrival in the system
+at time: 5195, job 269 arrival cpu
+at time: 5199, job 269 exit the cpu
+at time: 5199, job 269 exit the system
+at time: 5205, job 270 arrival in the system
+at time: 5205, job 270 arrival cpu
+at time: 5207, job 270 exit the cpu
+at time: 5213, job 96 arr the disk2
+at time: 5213, job 96 arrival cpu
+at time: 5213, job 152 arrvial the disk2
+at time: 5215, job 96 exit the cpu
+at time: 5217, job 89 exit the disk1
+at time: 5217, job 89 arrival cpu
+at time: 5217, job 56 arrvial the disk1
+at time: 5218, job 89 exit the cpu
+at time: 5222, job 271 arrival in the system
+at time: 5222, job 271 arrival cpu
+at time: 5225, job 271 exit the cpu
+at time: 5243, job 272 arrival in the system
+at time: 5243, job 272 arrival cpu
+at time: 5247, job 272 exit the cpu
+at time: 5251, job 56 exit the disk1
+at time: 5251, job 56 arrival cpu
+at time: 5251, job 56 arrvial the disk1
+at time: 5255, job 38 exit the network
+at time: 5255, job 56 exit the cpu
+at time: 5255, job 56 exit the system
+at time: 5255, job 38 arrival cpu
+at time: 5255, job 38 arrival the net
+at time: 5259, job 38 exit the cpu
+at time: 5262, job 152 arr the disk2
+at time: 5262, job 152 arrival cpu
+at time: 5262, job 152 arrvial the disk2
+at time: 5264, job 152 exit the cpu
+at time: 5267, job 273 arrival in the system
+at time: 5267, job 273 arrival cpu
+at time: 5269, job 273 exit the cpu
+at time: 5269, job 273 exit the system
+at time: 5289, job 274 arrival in the system
+at time: 5289, job 274 arrival cpu
+at time: 5292, job 274 exit the cpu
+at time: 5298, job 56 exit the disk1
+at time: 5298, job 56 arrival cpu
+at time: 5298, job 148 arrvial the disk1
+at time: 5302, job 152 arr the disk2
+at time: 5302, job 275 arrival in the system
+at time: 5302, job 56 exit the cpu
+at time: 5302, job 152 arrival cpu
+at time: 5302, job 152 arrvial the disk2
+at time: 5302, job 173 arrival cpu
+at time: 5303, job 173 exit the cpu
+at time: 5305, job 152 exit the cpu
+at time: 5321, job 276 arrival in the system
+at time: 5321, job 276 arrival cpu
+at time: 5324, job 276 exit the cpu
+at time: 5324, job 276 exit the system
+at time: 5337, job 148 exit the disk1
+at time: 5337, job 148 arrival cpu
+at time: 5337, job 148 arrvial the disk1
+at time: 5338, job 148 exit the cpu
+at time: 5342, job 152 arr the disk2
+at time: 5342, job 152 arrival cpu
+at time: 5342, job 152 arrvial the disk2
+at time: 5343, job 152 exit the cpu
+at time: 5350, job 277 arrival in the system
+at time: 5350, job 277 arrival cpu
+at time: 5354, job 277 exit the cpu
+at time: 5364, job 278 arrival in the system
+at time: 5364, job 278 arrival cpu
+at time: 5366, job 278 exit the cpu
+at time: 5366, job 278 exit the system
+at time: 5370, job 148 exit the disk1
+at time: 5370, job 148 arrival cpu
+at time: 5370, job 96 arrvial the disk1
+at time: 5372, job 148 exit the cpu
+at time: 5372, job 148 exit the system
+at time: 5374, job 279 arrival in the system
+at time: 5374, job 279 arrival cpu
+at time: 5375, job 279 exit the cpu
+at time: 5382, job 152 arr the disk2
+at time: 5382, job 152 arrival cpu
+at time: 5382, job 157 arrvial the disk2
+at time: 5385, job 152 exit the cpu
+at time: 5402, job 280 arrival in the system
+at time: 5402, job 280 arrival cpu
+at time: 5406, job 280 exit the cpu
+at time: 5406, job 280 exit the system
+at time: 5412, job 281 arrival in the system
+at time: 5412, job 281 arrival cpu
+at time: 5415, job 96 exit the disk1
+at time: 5415, job 96 arrival cpu
+at time: 5415, job 150 arrvial the disk1
+at time: 5416, job 281 exit the cpu
+at time: 5416, job 281 exit the system
+at time: 5416, job 96 exit the cpu
+at time: 5419, job 157 arr the disk2
+at time: 5419, job 157 arrival cpu
+at time: 5419, job 157 arrvial the disk2
+at time: 5420, job 157 exit the cpu
+at time: 5422, job 282 arrival in the system
+at time: 5422, job 282 arrival cpu
+at time: 5426, job 282 exit the cpu
+at time: 5426, job 282 exit the system
+at time: 5440, job 157 arr the disk2
+at time: 5440, job 157 arrival cpu
+at time: 5440, job 158 arrvial the disk2
+at time: 5442, job 150 exit the disk1
+at time: 5442, job 150 arrival cpu
+at time: 5442, job 150 arrvial the disk1
+at time: 5443, job 157 exit the cpu
+at time: 5445, job 283 arrival in the system
+at time: 5445, job 283 arrival cpu
+at time: 5446, job 150 exit the cpu
+at time: 5446, job 150 exit the system
+at time: 5446, job 283 exit the cpu
+at time: 5463, job 284 arrival in the system
+at time: 5463, job 284 arrival cpu
+at time: 5467, job 284 exit the cpu
+at time: 5476, job 285 arrival in the system
+at time: 5476, job 285 arrival cpu
+at time: 5478, job 285 exit the cpu
+at time: 5488, job 158 arr the disk2
+at time: 5488, job 158 arrival cpu
+at time: 5488, job 158 arrvial the disk2
+at time: 5490, job 150 exit the disk1
+at time: 5490, job 150 arrival cpu
+at time: 5490, job 150 arrvial the disk1
+at time: 5491, job 150 exit the cpu
+at time: 5492, job 158 exit the cpu
+at time: 5499, job 286 arrival in the system
+at time: 5499, job 286 arrival cpu
+at time: 5501, job 286 exit the cpu
+at time: 5514, job 150 exit the disk1
+at time: 5514, job 150 arrival cpu
+at time: 5514, job 150 arrvial the disk1
+at time: 5517, job 158 arr the disk2
+at time: 5517, job 158 arrival cpu
+at time: 5517, job 32 arrvial the disk2
+at time: 5518, job 150 exit the cpu
+at time: 5520, job 158 exit the cpu
+at time: 5521, job 287 arrival in the system
+at time: 5521, job 287 arrival cpu
+at time: 5523, job 287 exit the cpu
+at time: 5523, job 287 exit the system
+at time: 5533, job 288 arrival in the system
+at time: 5533, job 288 arrival cpu
+at time: 5537, job 288 exit the cpu
+at time: 5537, job 288 exit the system
+at time: 5538, job 150 exit the disk1
+at time: 5538, job 150 arrival cpu
+at time: 5538, job 154 arrvial the disk1
+at time: 5541, job 150 exit the cpu
+at time: 5541, job 150 exit the system
+at time: 5561, job 32 arr the disk2
+at time: 5561, job 289 arrival in the system
+at time: 5561, job 32 arrival cpu
+at time: 5561, job 28 arrvial the disk2
+at time: 5565, job 32 exit the cpu
+at time: 5565, job 25 arrival cpu
+at time: 5566, job 25 exit the cpu
+at time: 5575, job 290 arrival in the system
+at time: 5575, job 290 arrival cpu
+at time: 5577, job 154 exit the disk1
+at time: 5577, job 154 arrival cpu
+at time: 5577, job 154 arrvial the disk1
+at time: 5578, job 154 exit the cpu
+at time: 5578, job 154 exit the system
+at time: 5579, job 290 exit the cpu
+at time: 5588, job 291 arrival in the system
+at time: 5588, job 291 arrival cpu
+at time: 5589, job 291 exit the cpu
+at time: 5589, job 291 exit the system
+at time: 5602, job 28 arr the disk2
+at time: 5602, job 28 arrival cpu
+at time: 5602, job 28 arrvial the disk2
+at time: 5606, job 28 exit the cpu
+at time: 5610, job 292 arrival in the system
+at time: 5610, job 292 arrival cpu
+at time: 5613, job 292 exit the cpu
+at time: 5613, job 292 exit the system
+at time: 5617, job 154 exit the disk1
+at time: 5617, job 154 arrival cpu
+at time: 5617, job 32 arrvial the disk1
+at time: 5620, job 154 exit the cpu
+at time: 5625, job 293 arrival in the system
+at time: 5625, job 293 arrival cpu
+at time: 5628, job 293 exit the cpu
+at time: 5628, job 293 exit the system
+at time: 5635, job 294 arrival in the system
+at time: 5635, job 294 arrival cpu
+at time: 5637, job 294 exit the cpu
+at time: 5651, job 28 arr the disk2
+at time: 5651, job 28 arrival cpu
+at time: 5651, job 27 arrvial the disk2
+at time: 5652, job 28 exit the cpu
+at time: 5652, job 28 exit the system
+at time: 5653, job 32 exit the disk1
+at time: 5653, job 32 arrival cpu
+at time: 5653, job 32 arrvial the disk1
+at time: 5655, job 32 exit the cpu
+at time: 5655, job 32 exit the system
+at time: 5658, job 295 arrival in the system
+at time: 5658, job 295 arrival cpu
+at time: 5661, job 295 exit the cpu
+at time: 5661, job 295 exit the system
+at time: 5680, job 296 arrival in the system
+at time: 5680, job 296 arrival cpu
+at time: 5683, job 296 exit the cpu
+at time: 5692, job 27 arr the disk2
+at time: 5692, job 27 arrival cpu
+at time: 5692, job 163 arrvial the disk2
+at time: 5696, job 32 exit the disk1
+at time: 5696, job 27 exit the cpu
+at time: 5696, job 32 arrival cpu
+at time: 5696, job 159 arrvial the disk1
+at time: 5700, job 32 exit the cpu
+at time: 5700, job 32 exit the system
+at time: 5703, job 297 arrival in the system
+at time: 5703, job 297 arrival cpu
+at time: 5706, job 297 exit the cpu
+at time: 5714, job 298 arrival in the system
+at time: 5714, job 298 arrival cpu
+at time: 5716, job 298 exit the cpu
+at time: 5716, job 298 exit the system
+at time: 5729, job 38 exit the network
+at time: 5729, job 38 arrival cpu
+at time: 5729, job 43 arrival the net
+at time: 5731, job 38 exit the cpu
+at time: 5732, job 163 arr the disk2
+at time: 5732, job 163 arrival cpu
+at time: 5732, job 163 arrvial the disk2
+at time: 5736, job 163 exit the cpu
+at time: 5736, job 163 exit the system
+at time: 5742, job 299 arrival in the system
+at time: 5742, job 299 arrival cpu
+at time: 5745, job 159 exit the disk1
+at time: 5745, job 299 exit the cpu
+at time: 5745, job 159 arrival cpu
+at time: 5745, job 159 arrvial the disk1
+at time: 5747, job 159 exit the cpu
+at time: 5764, job 300 arrival in the system
+at time: 5764, job 300 arrival cpu
+at time: 5765, job 159 exit the disk1
+at time: 5765, job 300 exit the cpu
+at time: 5765, job 159 arrival cpu
+at time: 5765, job 160 arrvial the disk1
+at time: 5767, job 159 exit the cpu
+at time: 5767, job 159 exit the system
+at time: 5772, job 163 arr the disk2
+at time: 5772, job 163 arrival cpu
+at time: 5772, job 27 arrvial the disk2
+at time: 5774, job 163 exit the cpu
+at time: 5791, job 301 arrival in the system
+at time: 5791, job 301 arrival cpu
+at time: 5792, job 301 exit the cpu
+at time: 5812, job 160 exit the disk1
+at time: 5812, job 160 arrival cpu
+at time: 5812, job 160 arrvial the disk1
+at time: 5815, job 160 exit the cpu
+at time: 5819, job 27 arr the disk2
+at time: 5819, job 302 arrival in the system
+at time: 5819, job 27 arrival cpu
+at time: 5819, job 27 arrvial the disk2
+at time: 5820, job 27 exit the cpu
+at time: 5820, job 25 arrival cpu
+at time: 5822, job 25 exit the cpu
+at time: 5822, job 25 exit the system
+at time: 5841, job 303 arrival in the system
+at time: 5841, job 303 arrival cpu
+at time: 5842, job 303 exit the cpu
+at time: 5851, job 27 arr the disk2
+at time: 5851, job 27 arrival cpu
+at time: 5851, job 166 arrvial the disk2
+at time: 5852, job 160 exit the disk1
+at time: 5852, job 160 arrival cpu
+at time: 5852, job 161 arrvial the disk1
+at time: 5853, job 27 exit the cpu
+at time: 5853, job 160 exit the cpu
+at time: 5854, job 304 arrival in the system
+at time: 5854, job 304 arrival cpu
+at time: 5858, job 304 exit the cpu
+at time: 5858, job 304 exit the system
+at time: 5872, job 161 exit the disk1
+at time: 5872, job 161 arrival cpu
+at time: 5872, job 127 arrvial the disk1
+at time: 5876, job 161 exit the cpu
+at time: 5878, job 305 arrival in the system
+at time: 5878, job 305 arrival cpu
+at time: 5881, job 305 exit the cpu
+at time: 5890, job 306 arrival in the system
+at time: 5890, job 306 arrival cpu
+at time: 5891, job 306 exit the cpu
+at time: 5891, job 306 exit the system
+at time: 5896, job 166 arr the disk2
+at time: 5896, job 166 arrival cpu
+at time: 5896, job 166 arrvial the disk2
+at time: 5899, job 166 exit the cpu
+at time: 5903, job 127 exit the disk1
+at time: 5903, job 307 arrival in the system
+at time: 5903, job 127 arrival cpu
+at time: 5903, job 127 arrvial the disk1
+at time: 5906, job 127 exit the cpu
+at time: 5906, job 25 arrival cpu
+at time: 5908, job 25 exit the cpu
+at time: 5908, job 25 exit the system
+at time: 5925, job 308 arrival in the system
+at time: 5925, job 308 arrival cpu
+at time: 5926, job 308 exit the cpu
+at time: 5926, job 308 exit the system
+at time: 5934, job 166 arr the disk2
+at time: 5934, job 166 arrival cpu
+at time: 5934, job 167 arrvial the disk2
+at time: 5935, job 166 exit the cpu
+at time: 5945, job 127 exit the disk1
+at time: 5945, job 127 arrival cpu
+at time: 5945, job 53 arrvial the disk1
+at time: 5946, job 127 exit the cpu
+at time: 5949, job 309 arrival in the system
+at time: 5949, job 309 arrival cpu
+at time: 5951, job 309 exit the cpu
+at time: 5964, job 310 arrival in the system
+at time: 5964, job 310 arrival cpu
+at time: 5965, job 310 exit the cpu
+at time: 5976, job 167 arr the disk2
+at time: 5976, job 311 arrival in the system
+at time: 5976, job 167 arrival cpu
+at time: 5976, job 167 arrvial the disk2
+at time: 5979, job 167 exit the cpu
+at time: 5979, job 175 arrival cpu
+at time: 5981, job 175 exit the cpu
+at time: 5987, job 53 exit the disk1
+at time: 5987, job 53 arrival cpu
+at time: 5987, job 53 arrvial the disk1
+at time: 5988, job 53 exit the cpu
+at time: 5996, job 167 arr the disk2
+at time: 5996, job 167 arrival cpu
+at time: 5996, job 105 arrvial the disk2
+at time: 5999, job 167 exit the cpu
+at time: 6002, job 312 arrival in the system
+at time: 6002, job 312 arrival cpu
+at time: 6005, job 312 exit the cpu
+at time: 6020, job 313 arrival in the system
+at time: 6020, job 313 arrival cpu
+at time: 6021, job 313 exit the cpu
+at time: 6023, job 53 exit the disk1
+at time: 6023, job 53 arrival cpu
+at time: 6023, job 103 arrvial the disk1
+at time: 6024, job 105 arr the disk2
+at time: 6024, job 105 arrival cpu
+at time: 6024, job 169 arrvial the disk2
+at time: 6025, job 53 exit the cpu
+at time: 6025, job 53 exit the system
+at time: 6028, job 105 exit the cpu
+at time: 6028, job 105 exit the system
+at time: 6038, job 314 arrival in the system
+at time: 6038, job 314 arrival cpu
+at time: 6041, job 314 exit the cpu
+at time: 6041, job 314 exit the system
+at time: 6048, job 169 arr the disk2
+at time: 6048, job 169 arrival cpu
+at time: 6048, job 169 arrvial the disk2
+at time: 6050, job 315 arrival in the system
+at time: 6050, job 169 exit the cpu
+at time: 6050, job 169 exit the system
+at time: 6050, job 175 arrival cpu
+at time: 6051, job 175 exit the cpu
+at time: 6053, job 103 exit the disk1
+at time: 6053, job 103 arrival cpu
+at time: 6053, job 165 arrvial the disk1
+at time: 6057, job 103 exit the cpu
+at time: 6075, job 316 arrival in the system
+at time: 6075, job 316 arrival cpu
+at time: 6076, job 316 exit the cpu
+at time: 6076, job 316 exit the system
+at time: 6077, job 165 exit the disk1
+at time: 6077, job 165 arrival cpu
+at time: 6077, job 165 arrvial the disk1
+at time: 6078, job 165 exit the cpu
+at time: 6084, job 169 arr the disk2
+at time: 6084, job 169 arrival cpu
+at time: 6084, job 66 arrvial the disk2
+at time: 6085, job 169 exit the cpu
+at time: 6094, job 43 exit the network
+at time: 6094, job 43 arrival cpu
+at time: 6094, job 44 arrival the net
+at time: 6095, job 317 arrival in the system
+at time: 6096, job 43 exit the cpu
+at time: 6096, job 43 exit the system
+at time: 6096, job 178 arrival cpu
+at time: 6097, job 178 exit the cpu
+at time: 6099, job 165 exit the disk1
+at time: 6099, job 165 arrival cpu
+at time: 6099, job 103 arrvial the disk1
+at time: 6102, job 165 exit the cpu
+at time: 6114, job 318 arrival in the system
+at time: 6114, job 318 arrival cpu
+at time: 6116, job 318 exit the cpu
+at time: 6127, job 66 arr the disk2
+at time: 6127, job 66 arrival cpu
+at time: 6127, job 66 arrvial the disk2
+at time: 6131, job 66 exit the cpu
+at time: 6131, job 66 exit the system
+at time: 6134, job 103 exit the disk1
+at time: 6134, job 103 arrival cpu
+at time: 6134, job 103 arrvial the disk1
+at time: 6137, job 103 exit the cpu
+at time: 6137, job 103 exit the system
+at time: 6140, job 319 arrival in the system
+at time: 6140, job 319 arrival cpu
+at time: 6143, job 319 exit the cpu
+at time: 6161, job 320 arrival in the system
+at time: 6161, job 320 arrival cpu
+at time: 6163, job 320 exit the cpu
+at time: 6165, job 66 arr the disk2
+at time: 6165, job 66 arrival cpu
+at time: 6165, job 174 arrvial the disk2
+at time: 6166, job 66 exit the cpu
+at time: 6169, job 103 exit the disk1
+at time: 6169, job 103 arrival cpu
+at time: 6169, job 66 arrvial the disk1
+at time: 6172, job 103 exit the cpu
+at time: 6176, job 321 arrival in the system
+at time: 6176, job 321 arrival cpu
+at time: 6179, job 321 exit the cpu
+at time: 6193, job 322 arrival in the system
+at time: 6193, job 322 arrival cpu
+at time: 6194, job 322 exit the cpu
+at time: 6204, job 174 arr the disk2
+at time: 6204, job 174 arrival cpu
+at time: 6204, job 174 arrvial the disk2
+at time: 6208, job 174 exit the cpu
+at time: 6212, job 66 exit the disk1
+at time: 6212, job 66 arrival cpu
+at time: 6212, job 66 arrvial the disk1
+at time: 6215, job 66 exit the cpu
+at time: 6215, job 66 exit the system
+at time: 6220, job 323 arrival in the system
+at time: 6220, job 323 arrival cpu
+at time: 6222, job 323 exit the cpu
+at time: 6224, job 174 arr the disk2
+at time: 6224, job 174 arrival cpu
+at time: 6224, job 176 arrvial the disk2
+at time: 6225, job 174 exit the cpu
+at time: 6237, job 324 arrival in the system
+at time: 6237, job 324 arrival cpu
+at time: 6238, job 66 exit the disk1
+at time: 6238, job 66 arrival cpu
+at time: 6238, job 105 arrvial the disk1
+at time: 6240, job 324 exit the cpu
+at time: 6240, job 324 exit the system
+at time: 6242, job 66 exit the cpu
+at time: 6264, job 325 arrival in the system
+at time: 6264, job 325 arrival cpu
+at time: 6265, job 325 exit the cpu
+at time: 6265, job 325 exit the system
+at time: 6269, job 176 arr the disk2
+at time: 6269, job 176 arrival cpu
+at time: 6269, job 176 arrvial the disk2
+at time: 6273, job 176 exit the cpu
+at time: 6285, job 105 exit the disk1
+at time: 6285, job 105 arrival cpu
+at time: 6285, job 105 arrvial the disk1
+at time: 6288, job 326 arrival in the system
+at time: 6289, job 105 exit the cpu
+at time: 6289, job 178 arrival cpu
+at time: 6293, job 178 exit the cpu
+at time: 6293, job 178 exit the system
+at time: 6305, job 44 exit the network
+at time: 6305, job 44 arrival cpu
+at time: 6305, job 47 arrival the net
+at time: 6306, job 327 arrival in the system
+at time: 6308, job 44 exit the cpu
+at time: 6308, job 181 arrival cpu
+at time: 6309, job 181 exit the cpu
+at time: 6313, job 176 arr the disk2
+at time: 6313, job 176 arrival cpu
+at time: 6313, job 176 arrvial the disk2
+at time: 6315, job 176 exit the cpu
+at time: 6317, job 105 exit the disk1
+at time: 6317, job 105 arrival cpu
+at time: 6317, job 25 arrvial the disk1
+at time: 6321, job 105 exit the cpu
+at time: 6323, job 328 arrival in the system
+at time: 6323, job 328 arrival cpu
+at time: 6324, job 328 exit the cpu
+at time: 6333, job 329 arrival in the system
+at time: 6333, job 329 arrival cpu
+at time: 6334, job 329 exit the cpu
+at time: 6338, job 25 exit the disk1
+at time: 6338, job 25 arrival cpu
+at time: 6338, job 25 arrvial the disk1
+at time: 6339, job 25 exit the cpu
+at time: 6339, job 25 exit the system
+at time: 6343, job 330 arrival in the system
+at time: 6343, job 330 arrival cpu
+at time: 6345, job 330 exit the cpu
+at time: 6345, job 330 exit the system
+at time: 6358, job 176 arr the disk2
+at time: 6358, job 176 arrival cpu
+at time: 6358, job 73 arrvial the disk2
+at time: 6359, job 176 exit the cpu
+at time: 6362, job 25 exit the disk1
+at time: 6362, job 25 arrival cpu
+at time: 6362, job 104 arrvial the disk1
+at time: 6364, job 25 exit the cpu
+at time: 6367, job 331 arrival in the system
+at time: 6367, job 331 arrival cpu
+at time: 6369, job 331 exit the cpu
+at time: 6369, job 331 exit the system
+at time: 6379, job 332 arrival in the system
+at time: 6379, job 332 arrival cpu
+at time: 6382, job 332 exit the cpu
+at time: 6384, job 104 exit the disk1
+at time: 6384, job 104 arrival cpu
+at time: 6384, job 104 arrvial the disk1
+at time: 6388, job 104 exit the cpu
+at time: 6390, job 73 arr the disk2
+at time: 6390, job 73 arrival cpu
+at time: 6390, job 73 arrvial the disk2
+at time: 6394, job 73 exit the cpu
+at time: 6394, job 73 exit the system
+at time: 6398, job 333 arrival in the system
+at time: 6398, job 333 arrival cpu
+at time: 6399, job 333 exit the cpu
+at time: 6410, job 334 arrival in the system
+at time: 6410, job 334 arrival cpu
+at time: 6411, job 334 exit the cpu
+at time: 6414, job 104 exit the disk1
+at time: 6414, job 104 arrival cpu
+at time: 6414, job 80 arrvial the disk1
+at time: 6416, job 104 exit the cpu
+at time: 6427, job 73 arr the disk2
+at time: 6427, job 73 arrival cpu
+at time: 6427, job 180 arrvial the disk2
+at time: 6430, job 73 exit the cpu
+at time: 6439, job 335 arrival in the system
+at time: 6439, job 335 arrival cpu
+at time: 6443, job 335 exit the cpu
+at time: 6450, job 80 exit the disk1
+at time: 6450, job 80 arrival cpu
+at time: 6450, job 80 arrvial the disk1
+at time: 6451, job 80 exit the cpu
+at time: 6457, job 180 arr the disk2
+at time: 6457, job 180 arrival cpu
+at time: 6457, job 180 arrvial the disk2
+at time: 6459, job 180 exit the cpu
+at time: 6459, job 180 exit the system
+at time: 6463, job 336 arrival in the system
+at time: 6463, job 336 arrival cpu
+at time: 6467, job 336 exit the cpu
+at time: 6477, job 337 arrival in the system
+at time: 6477, job 337 arrival cpu
+at time: 6481, job 337 exit the cpu
+at time: 6484, job 80 exit the disk1
+at time: 6484, job 80 arrival cpu
+at time: 6484, job 177 arrvial the disk1
+at time: 6486, job 80 exit the cpu
+at time: 6502, job 338 arrival in the system
+at time: 6502, job 338 arrival cpu
+at time: 6503, job 338 exit the cpu
+at time: 6505, job 180 arr the disk2
+at time: 6505, job 180 arrival cpu
+at time: 6505, job 106 arrvial the disk2
+at time: 6506, job 180 exit the cpu
+at time: 6514, job 339 arrival in the system
+at time: 6514, job 339 arrival cpu
+at time: 6515, job 339 exit the cpu
+at time: 6530, job 177 exit the disk1
+at time: 6530, job 177 arrival cpu
+at time: 6530, job 177 arrvial the disk1
+at time: 6532, job 177 exit the cpu
+at time: 6537, job 340 arrival in the system
+at time: 6537, job 340 arrival cpu
+at time: 6539, job 340 exit the cpu
+at time: 6552, job 341 arrival in the system
+at time: 6552, job 341 arrival cpu
+at time: 6554, job 106 arr the disk2
+at time: 6554, job 106 arrival cpu
+at time: 6554, job 106 arrvial the disk2
+at time: 6555, job 341 exit the cpu
+at time: 6555, job 106 exit the cpu
+at time: 6555, job 106 exit the system
+at time: 6564, job 342 arrival in the system
+at time: 6564, job 342 arrival cpu
+at time: 6565, job 342 exit the cpu
+at time: 6571, job 177 exit the disk1
+at time: 6571, job 177 arrival cpu
+at time: 6571, job 179 arrvial the disk1
+at time: 6575, job 177 exit the cpu
+at time: 6579, job 106 arr the disk2
+at time: 6579, job 343 arrival in the system
+at time: 6579, job 106 arrival cpu
+at time: 6579, job 131 arrvial the disk2
+at time: 6581, job 106 exit the cpu
+at time: 6581, job 181 arrival cpu
+at time: 6585, job 181 exit the cpu
+at time: 6598, job 179 exit the disk1
+at time: 6598, job 179 arrival cpu
+at time: 6598, job 179 arrvial the disk1
+at time: 6601, job 179 exit the cpu
+at time: 6601, job 179 exit the system
+at time: 6607, job 344 arrival in the system
+at time: 6607, job 344 arrival cpu
+at time: 6609, job 344 exit the cpu
+at time: 6621, job 131 arr the disk2
+at time: 6621, job 131 arrival cpu
+at time: 6621, job 131 arrvial the disk2
+at time: 6624, job 131 exit the cpu
+at time: 6625, job 179 exit the disk1
+at time: 6625, job 179 arrival cpu
+at time: 6625, job 179 arrvial the disk1
+at time: 6629, job 179 exit the cpu
+at time: 6629, job 179 exit the system
+at time: 6633, job 345 arrival in the system
+at time: 6633, job 345 arrival cpu
+at time: 6635, job 345 exit the cpu
+at time: 6635, job 345 exit the system
+at time: 6654, job 179 exit the disk1
+at time: 6654, job 179 arrival cpu
+at time: 6654, job 25 arrvial the disk1
+at time: 6655, job 131 arr the disk2
+at time: 6655, job 131 arrival cpu
+at time: 6655, job 30 arrvial the disk2
+at time: 6656, job 131 exit the cpu
+at time: 6658, job 346 arrival in the system
+at time: 6658, job 179 exit the cpu
+at time: 6658, job 346 arrival cpu
+at time: 6662, job 346 exit the cpu
+at time: 6662, job 346 exit the system
+at time: 6680, job 347 arrival in the system
+at time: 6680, job 347 arrival cpu
+at time: 6682, job 347 exit the cpu
+at time: 6682, job 347 exit the system
+at time: 6694, job 30 arr the disk2
+at time: 6694, job 30 arrival cpu
+at time: 6694, job 30 arrvial the disk2
+at time: 6695, job 47 exit the network
+at time: 6695, job 47 arrival cpu
+at time: 6695, job 48 arrival the net
+at time: 6696, job 47 exit the cpu
+at time: 6697, job 348 arrival in the system
+at time: 6697, job 30 exit the cpu
+at time: 6697, job 30 exit the system
+at time: 6697, job 348 arrival cpu
+at time: 6701, job 348 exit the cpu
+at time: 6702, job 25 exit the disk1
+at time: 6702, job 25 arrival cpu
+at time: 6702, job 25 arrvial the disk1
+at time: 6704, job 25 exit the cpu
+at time: 6723, job 349 arrival in the system
+at time: 6723, job 25 exit the disk1
+at time: 6723, job 349 arrival cpu
+at time: 6723, job 25 arrival cpu
+at time: 6723, job 112 arrvial the disk1
+at time: 6725, job 349 exit the cpu
+at time: 6726, job 25 exit the cpu
+at time: 6726, job 25 exit the system
+at time: 6727, job 30 arr the disk2
+at time: 6727, job 30 arrival cpu
+at time: 6727, job 16 arrvial the disk2
+at time: 6730, job 30 exit the cpu
+at time: 6730, job 30 exit the system
+at time: 6743, job 350 arrival in the system
+at time: 6743, job 350 arrival cpu
+at time: 6745, job 350 exit the cpu
+at time: 6745, job 350 exit the system
+at time: 6762, job 112 exit the disk1
+at time: 6762, job 112 arrival cpu
+at time: 6766, job 112 exit the cpu
+at time: 6766, job 112 arrvial the disk1
+at time: 6768, job 351 arrival in the system
+at time: 6768, job 351 arrival cpu
+at time: 6769, job 351 exit the cpu
+at time: 6769, job 351 exit the system
+at time: 6771, job 16 arr the disk2
+at time: 6771, job 16 arrival cpu
+at time: 6771, job 187 arrvial the disk2
+at time: 6772, job 16 exit the cpu
+at time: 6772, job 16 exit the system
+at time: 6789, job 352 arrival in the system
+at time: 6789, job 352 arrival cpu
+at time: 6792, job 352 exit the cpu
+at time: 6792, job 352 exit the system
+at time: 6799, job 187 arr the disk2
+at time: 6799, job 187 arrival cpu
+at time: 6801, job 187 exit the cpu
+at time: 6812, job 353 arrival in the system
+at time: 6812, job 353 arrival cpu
+at time: 6813, job 112 exit the disk1
+at time: 6813, job 112 arrival cpu
+at time: 6815, job 353 exit the cpu
+at time: 6815, job 353 exit the system
+at time: 6816, job 112 exit the cpu
+at time: 6816, job 112 arrvial the disk1
+at time: 6827, job 354 arrival in the system
+at time: 6827, job 354 arrival cpu
+at time: 6831, job 354 exit the cpu
+at time: 6831, job 354 exit the system
+at time: 6844, job 355 arrival in the system
+at time: 6844, job 355 arrival cpu
+at time: 6848, job 355 exit the cpu
+at time: 6848, job 355 arrvial the disk2
+at time: 6858, job 356 arrival in the system
+at time: 6858, job 356 arrival cpu
+at time: 6862, job 112 exit the disk1
+at time: 6862, job 356 exit the cpu
+at time: 6862, job 112 arrival cpu
+at time: 6862, job 356 arrvial the disk1
+at time: 6863, job 112 exit the cpu
+at time: 6870, job 357 arrival in the system
+at time: 6870, job 357 arrival cpu
+at time: 6873, job 357 exit the cpu
+at time: 6878, job 355 arr the disk2
+at time: 6878, job 355 arrival cpu
+at time: 6878, job 187 arrvial the disk2
+at time: 6882, job 355 exit the cpu
+at time: 6882, job 355 exit the system
+at time: 6885, job 358 arrival in the system
+at time: 6885, job 358 arrival cpu
+at time: 6886, job 358 exit the cpu
+at time: 6887, job 356 exit the disk1
+at time: 6887, job 356 arrival cpu
+at time: 6887, job 112 arrvial the disk1
+at time: 6888, job 356 exit the cpu
+at time: 6905, job 359 arrival in the system
+at time: 6905, job 359 arrival cpu
+at time: 6909, job 359 exit the cpu
+at time: 6909, job 359 exit the system
+at time: 6911, job 187 arr the disk2
+at time: 6911, job 187 arrival cpu
+at time: 6911, job 187 arrvial the disk2
+at time: 6915, job 187 exit the cpu
+at time: 6915, job 187 exit the system
+at time: 6918, job 112 exit the disk1
+at time: 6918, job 112 arrival cpu
+at time: 6922, job 112 exit the cpu
+at time: 6922, job 112 arrvial the disk1
+at time: 6928, job 360 arrival in the system
+at time: 6928, job 360 arrival cpu
+at time: 6932, job 360 exit the cpu
+at time: 6945, job 187 arr the disk2
+at time: 6945, job 187 arrival cpu
+at time: 6949, job 187 exit the cpu
+at time: 6949, job 187 arrvial the disk2
+at time: 6950, job 112 exit the disk1
+at time: 6950, job 112 arrival cpu
+at time: 6951, job 112 exit the cpu
+at time: 6951, job 112 exit the system
+at time: 6953, job 361 arrival in the system
+at time: 6953, job 361 arrival cpu
+at time: 6956, job 361 exit the cpu
+at time: 6974, job 362 arrival in the system
+at time: 6974, job 362 arrival cpu
+at time: 6975, job 187 arr the disk2
+at time: 6975, job 362 exit the cpu
+at time: 6975, job 362 exit the system
+at time: 6975, job 187 arrival cpu
+at time: 6976, job 187 exit the cpu
+at time: 6976, job 187 arrvial the disk1
+at time: 6993, job 363 arrival in the system
+at time: 6993, job 363 arrival cpu
+at time: 6997, job 363 exit the cpu
+at time: 6997, job 363 exit the system
+at time: 7009, job 187 exit the disk1
+at time: 7009, job 187 arrival cpu
+at time: 7011, job 187 exit the cpu
+at time: 7015, job 364 arrival in the system
+at time: 7015, job 364 arrival cpu
+at time: 7016, job 364 exit the cpu
+at time: 7016, job 364 arrvial the disk1
+at time: 7041, job 365 arrival in the system
+at time: 7041, job 365 arrival cpu
+at time: 7044, job 365 exit the cpu
+at time: 7044, job 365 exit the system
+at time: 7065, job 364 exit the disk1
+at time: 7065, job 364 arrival cpu
+at time: 7066, job 364 exit the cpu
+at time: 7067, job 366 arrival in the system
+at time: 7067, job 366 arrival cpu
+at time: 7071, job 366 exit the cpu
+at time: 7071, job 366 arrvial the disk1
+at time: 7091, job 48 exit the network
+at time: 7091, job 48 arrival cpu
+at time: 7091, job 50 arrival the net
+at time: 7092, job 48 exit the cpu
+at time: 7092, job 48 exit the system
+at time: 7094, job 367 arrival in the system
+at time: 7094, job 367 arrival cpu
+at time: 7096, job 367 exit the cpu
+at time: 7096, job 367 exit the system
+at time: 7105, job 366 exit the disk1
+at time: 7105, job 366 arrival cpu
+at time: 7109, job 368 arrival in the system
+at time: 7109, job 366 exit the cpu
+at time: 7109, job 183 arrival cpu
+at time: 7109, job 366 arrvial the disk1
+at time: 7110, job 183 exit the cpu
+at time: 7110, job 183 arrvial the disk2
+at time: 7134, job 369 arrival in the system
+at time: 7134, job 369 arrival cpu
+at time: 7137, job 183 arr the disk2
+at time: 7137, job 183 arrival cpu
+at time: 7138, job 366 exit the disk1
+at time: 7138, job 369 exit the cpu
+at time: 7138, job 369 exit the system
+at time: 7138, job 366 arrival cpu
+at time: 7140, job 183 exit the cpu
+at time: 7140, job 183 arrvial the disk1
+at time: 7141, job 366 exit the cpu
+at time: 7141, job 366 arrvial the disk2
+at time: 7148, job 370 arrival in the system
+at time: 7148, job 370 arrival cpu
+at time: 7149, job 370 exit the cpu
+at time: 7149, job 370 exit the system
+at time: 7166, job 366 arr the disk2
+at time: 7166, job 366 arrival cpu
+at time: 7169, job 366 exit the cpu
+at time: 7169, job 366 arrvial the disk2
+at time: 7170, job 183 exit the disk1
+at time: 7170, job 183 arrival cpu
+at time: 7172, job 183 exit the cpu
+at time: 7176, job 371 arrival in the system
+at time: 7176, job 371 arrival cpu
+at time: 7178, job 371 exit the cpu
+at time: 7196, job 372 arrival in the system
+at time: 7196, job 372 arrival cpu
+at time: 7199, job 372 exit the cpu
+at time: 7199, job 372 exit the system
+at time: 7204, job 366 arr the disk2
+at time: 7204, job 366 arrival cpu
+at time: 7207, job 366 exit the cpu
+at time: 7207, job 366 exit the system
+at time: 7213, job 373 arrival in the system
+at time: 7213, job 373 arrival cpu
+at time: 7216, job 373 exit the cpu
+at time: 7216, job 373 arrvial the disk1
+at time: 7230, job 374 arrival in the system
+at time: 7230, job 374 arrival cpu
+at time: 7231, job 374 exit the cpu
+at time: 7231, job 374 arrvial the disk2
+at time: 7247, job 375 arrival in the system
+at time: 7247, job 375 arrival cpu
+at time: 7248, job 375 exit the cpu
+at time: 7248, job 375 exit the system
+at time: 7255, job 373 exit the disk1
+at time: 7255, job 373 arrival cpu
+at time: 7256, job 373 exit the cpu
+at time: 7256, job 373 exit the system
+at time: 7259, job 376 arrival in the system
+at time: 7259, job 376 arrival cpu
+at time: 7262, job 376 exit the cpu
+at time: 7262, job 376 arrvial the disk1
+at time: 7271, job 374 arr the disk2
+at time: 7271, job 377 arrival in the system
+at time: 7271, job 374 arrival cpu
+at time: 7275, job 374 exit the cpu
+at time: 7275, job 374 exit the system
+at time: 7275, job 183 arrival cpu
+at time: 7279, job 183 exit the cpu
+at time: 7287, job 378 arrival in the system
+at time: 7287, job 378 arrival cpu
+at time: 7289, job 378 exit the cpu
+at time: 7289, job 378 exit the system
+at time: 7298, job 376 exit the disk1
+at time: 7298, job 379 arrival in the system
+at time: 7298, job 376 arrival cpu
+at time: 7299, job 376 exit the cpu
+at time: 7299, job 190 arrival cpu
+at time: 7299, job 376 arrvial the disk1
+at time: 7300, job 190 exit the cpu
+at time: 7300, job 190 arrvial the disk2
+at time: 7316, job 380 arrival in the system
+at time: 7316, job 380 arrival cpu
+at time: 7317, job 380 exit the cpu
+at time: 7320, job 376 exit the disk1
+at time: 7320, job 376 arrival cpu
+at time: 7321, job 376 exit the cpu
+at time: 7321, job 376 exit the system
+at time: 7327, job 381 arrival in the system
+at time: 7327, job 381 arrival cpu
+at time: 7331, job 381 exit the cpu
+at time: 7331, job 381 arrvial the disk1
+at time: 7339, job 382 arrival in the system
+at time: 7339, job 382 arrival cpu
+at time: 7343, job 382 exit the cpu
+at time: 7348, job 190 arr the disk2
+at time: 7348, job 190 arrival cpu
+at time: 7348, job 110 arrvial the disk2
+at time: 7351, job 190 exit the cpu
+at time: 7359, job 381 exit the disk1
+at time: 7359, job 381 arrival cpu
+at time: 7360, job 381 exit the cpu
+at time: 7360, job 381 exit the system
+at time: 7368, job 383 arrival in the system
+at time: 7368, job 383 arrival cpu
+at time: 7370, job 383 exit the cpu
+at time: 7370, job 383 exit the system
+at time: 7379, job 110 arr the disk2
+at time: 7379, job 110 arrival cpu
+at time: 7379, job 110 arrvial the disk2
+at time: 7382, job 110 exit the cpu
+at time: 7395, job 384 arrival in the system
+at time: 7395, job 384 arrival cpu
+at time: 7398, job 384 exit the cpu
+at time: 7419, job 110 arr the disk2
+at time: 7419, job 110 arrival cpu
+at time: 7422, job 385 arrival in the system
+at time: 7422, job 110 exit the cpu
+at time: 7422, job 190 arrival cpu
+at time: 7422, job 110 arrvial the disk1
+at time: 7423, job 190 exit the cpu
+at time: 7450, job 386 arrival in the system
+at time: 7450, job 386 arrival cpu
+at time: 7452, job 386 exit the cpu
+at time: 7452, job 386 arrvial the disk2
+at time: 7464, job 387 arrival in the system
+at time: 7464, job 387 arrival cpu
+at time: 7466, job 387 exit the cpu
+at time: 7468, job 110 exit the disk1
+at time: 7468, job 110 arrival cpu
+at time: 7471, job 110 exit the cpu
+at time: 7493, job 388 arrival in the system
+at time: 7493, job 388 arrival cpu
+at time: 7497, job 386 arr the disk2
+at time: 7497, job 388 exit the cpu
+at time: 7497, job 388 exit the system
+at time: 7497, job 386 arrival cpu
+at time: 7499, job 386 exit the cpu
+at time: 7499, job 386 arrvial the disk1
+at time: 7506, job 389 arrival in the system
+at time: 7506, job 389 arrival cpu
+at time: 7509, job 389 exit the cpu
+at time: 7509, job 389 exit the system
+at time: 7520, job 390 arrival in the system
+at time: 7520, job 390 arrival cpu
+at time: 7522, job 390 exit the cpu
+at time: 7541, job 50 exit the network
+at time: 7541, job 50 arrival cpu
+at time: 7541, job 52 arrival the net
+at time: 7542, job 386 exit the disk1
+at time: 7542, job 50 exit the cpu
+at time: 7542, job 50 exit the system
+at time: 7542, job 386 arrival cpu
+at time: 7544, job 386 exit the cpu
+at time: 7544, job 386 exit the system
+at time: 7545, job 391 arrival in the system
+at time: 7545, job 391 arrival cpu
+at time: 7547, job 391 exit the cpu
+at time: 7547, job 391 arrvial the disk1
+at time: 7565, job 392 arrival in the system
+at time: 7565, job 392 arrival cpu
+at time: 7567, job 392 exit the cpu
+at time: 7567, job 392 exit the system
+at time: 7577, job 393 arrival in the system
+at time: 7577, job 393 arrival cpu
+at time: 7580, job 393 exit the cpu
+at time: 7580, job 393 arrvial the disk2
+at time: 7584, job 391 exit the disk1
+at time: 7584, job 391 arrival cpu
+at time: 7587, job 391 exit the cpu
+at time: 7587, job 391 arrvial the disk1
+at time: 7591, job 394 arrival in the system
+at time: 7591, job 394 arrival cpu
+at time: 7595, job 394 exit the cpu
+at time: 7595, job 394 exit the system
+at time: 7602, job 395 arrival in the system
+at time: 7602, job 395 arrival cpu
+at time: 7603, job 395 exit the cpu
+at time: 7609, job 393 arr the disk2
+at time: 7609, job 393 arrival cpu
+at time: 7609, job 111 arrvial the disk2
+at time: 7613, job 393 exit the cpu
+at time: 7630, job 396 arrival in the system
+at time: 7630, job 396 arrival cpu
+at time: 7631, job 391 exit the disk1
+at time: 7631, job 391 arrival cpu
+at time: 7633, job 391 exit the cpu
+at time: 7633, job 391 arrvial the disk1
+at time: 7634, job 396 exit the cpu
+at time: 7654, job 391 exit the disk1
+at time: 7654, job 391 arrival cpu
+at time: 7654, job 112 arrvial the disk1
+at time: 7655, job 111 arr the disk2
+at time: 7655, job 111 arrival cpu
+at time: 7655, job 111 arrvial the disk2
+at time: 7656, job 111 exit the cpu
+at time: 7658, job 397 arrival in the system
+at time: 7658, job 391 exit the cpu
+at time: 7658, job 397 arrival cpu
+at time: 7662, job 397 exit the cpu
+at time: 7685, job 398 arrival in the system
+at time: 7685, job 398 arrival cpu
+at time: 7687, job 398 exit the cpu
+at time: 7697, job 111 arr the disk2
+at time: 7697, job 111 arrival cpu
+at time: 7697, job 192 arrvial the disk2
+at time: 7699, job 111 exit the cpu
+at time: 7703, job 112 exit the disk1
+at time: 7703, job 112 arrival cpu
+at time: 7703, job 108 arrvial the disk1
+at time: 7707, job 112 exit the cpu
+at time: 7707, job 112 exit the system
+at time: 7714, job 399 arrival in the system
+at time: 7714, job 399 arrival cpu
+at time: 7718, job 399 exit the cpu
+at time: 7733, job 108 exit the disk1
+at time: 7733, job 108 arrival cpu
+at time: 7733, job 108 arrvial the disk1
+at time: 7735, job 400 arrival in the system
+at time: 7737, job 108 exit the cpu
+at time: 7737, job 108 exit the system
+at time: 7737, job 196 arrival cpu
+at time: 7738, job 196 exit the cpu
+at time: 7744, job 192 arr the disk2
+at time: 7744, job 192 arrival cpu
+at time: 7744, job 192 arrvial the disk2
+at time: 7745, job 192 exit the cpu
+at time: 7748, job 401 arrival in the system
+at time: 7748, job 401 arrival cpu
+at time: 7751, job 401 exit the cpu
+at time: 7751, job 401 exit the system
+at time: 7759, job 402 arrival in the system
+at time: 7759, job 402 arrival cpu
+at time: 7763, job 402 exit the cpu
+at time: 7770, job 403 arrival in the system
+at time: 7770, job 403 arrival cpu
+at time: 7773, job 403 exit the cpu
+at time: 7777, job 108 exit the disk1
+at time: 7777, job 108 arrival cpu
+at time: 7777, job 186 arrvial the disk1
+at time: 7780, job 108 exit the cpu
+at time: 7790, job 404 arrival in the system
+at time: 7790, job 404 arrival cpu
+at time: 7791, job 52 exit the network
+at time: 7791, job 192 arr the disk2
+at time: 7791, job 52 arrival cpu
+at time: 7791, job 52 arrival the net
+at time: 7791, job 192 arrival cpu
+at time: 7791, job 195 arrvial the disk2
+at time: 7793, job 404 exit the cpu
+at time: 7793, job 404 exit the system
+at time: 7793, job 192 exit the cpu
+at time: 7793, job 192 exit the system
+at time: 7794, job 52 exit the cpu
+at time: 7794, job 52 exit the system
+at time: 7803, job 405 arrival in the system
+at time: 7803, job 405 arrival cpu
+at time: 7804, job 186 exit the disk1
+at time: 7804, job 405 exit the cpu
+at time: 7804, job 186 arrival cpu
+at time: 7804, job 186 arrvial the disk1
+at time: 7806, job 186 exit the cpu
+at time: 7830, job 186 exit the disk1
+at time: 7830, job 186 arrival cpu
+at time: 7830, job 188 arrvial the disk1
+at time: 7831, job 406 arrival in the system
+at time: 7834, job 186 exit the cpu
+at time: 7834, job 196 arrival cpu
+at time: 7835, job 196 exit the cpu
+at time: 7836, job 195 arr the disk2
+at time: 7836, job 195 arrival cpu
+at time: 7836, job 195 arrvial the disk2
+at time: 7838, job 195 exit the cpu
+at time: 7838, job 195 exit the system
+at time: 7844, job 407 arrival in the system
+at time: 7844, job 407 arrival cpu
+at time: 7845, job 407 exit the cpu
+at time: 7858, job 408 arrival in the system
+at time: 7858, job 408 arrival cpu
+at time: 7861, job 408 exit the cpu
+at time: 7868, job 188 exit the disk1
+at time: 7868, job 188 arrival cpu
+at time: 7868, job 188 arrvial the disk1
+at time: 7871, job 195 arr the disk2
+at time: 7871, job 188 exit the cpu
+at time: 7871, job 195 arrival cpu
+at time: 7871, job 197 arrvial the disk2
+at time: 7873, job 195 exit the cpu
+at time: 7879, job 409 arrival in the system
+at time: 7879, job 409 arrival cpu
+at time: 7880, job 409 exit the cpu
+at time: 7895, job 197 arr the disk2
+at time: 7895, job 197 arrival cpu
+at time: 7895, job 197 arrvial the disk2
+at time: 7898, job 197 exit the cpu
+at time: 7903, job 188 exit the disk1
+at time: 7903, job 188 arrival cpu
+at time: 7903, job 188 arrvial the disk1
+at time: 7905, job 410 arrival in the system
+at time: 7906, job 188 exit the cpu
+at time: 7906, job 188 exit the system
+at time: 7906, job 198 arrival cpu
+at time: 7909, job 198 exit the cpu
+at time: 7923, job 197 arr the disk2
+at time: 7923, job 411 arrival in the system
+at time: 7923, job 197 arrival cpu
+at time: 7923, job 132 arrvial the disk2
+at time: 7926, job 197 exit the cpu
+at time: 7926, job 198 arrival cpu
+at time: 7930, job 198 exit the cpu
+at time: 7932, job 188 exit the disk1
+at time: 7932, job 188 arrival cpu
+at time: 7932, job 111 arrvial the disk1
+at time: 7934, job 188 exit the cpu
+at time: 7935, job 412 arrival in the system
+at time: 7935, job 412 arrival cpu
+at time: 7938, job 412 exit the cpu
+at time: 7945, job 132 arr the disk2
+at time: 7945, job 132 arrival cpu
+at time: 7945, job 132 arrvial the disk2
+at time: 7946, job 132 exit the cpu
+at time: 7949, job 413 arrival in the system
+at time: 7949, job 413 arrival cpu
+at time: 7952, job 413 exit the cpu
+at time: 7966, job 414 arrival in the system
+at time: 7966, job 414 arrival cpu
+at time: 7967, job 111 exit the disk1
+at time: 7967, job 111 arrival cpu
+at time: 7967, job 111 arrvial the disk1
+at time: 7968, job 132 arr the disk2
+at time: 7968, job 132 arrival cpu
+at time: 7968, job 57 arrvial the disk2
+at time: 7969, job 414 exit the cpu
+at time: 7969, job 132 exit the cpu
+at time: 7970, job 111 exit the cpu
+at time: 7980, job 415 arrival in the system
+at time: 7980, job 415 arrival cpu
+at time: 7981, job 415 exit the cpu
+at time: 7988, job 57 arr the disk2
+at time: 7988, job 57 arrival cpu
+at time: 7988, job 200 arrvial the disk2
+at time: 7990, job 57 exit the cpu
+at time: 8004, job 111 exit the disk1
+at time: 8004, job 111 arrival cpu
+at time: 8004, job 132 arrvial the disk1
+at time: 8005, job 111 exit the cpu
+at time: 8009, job 416 arrival in the system
+at time: 8009, job 416 arrival cpu
+at time: 8013, job 416 exit the cpu
+at time: 8024, job 200 arr the disk2
+at time: 8024, job 200 arrival cpu
+at time: 8024, job 200 arrvial the disk2
+at time: 8025, job 200 exit the cpu
+at time: 8031, job 417 arrival in the system
+at time: 8031, job 417 arrival cpu
+at time: 8032, job 417 exit the cpu
+at time: 8036, job 132 exit the disk1
+at time: 8036, job 132 arrival cpu
+at time: 8036, job 132 arrvial the disk1
+at time: 8038, job 132 exit the cpu
+at time: 8059, job 418 arrival in the system
+at time: 8059, job 418 arrival cpu
+at time: 8063, job 418 exit the cpu
+at time: 8063, job 418 exit the system
+at time: 8071, job 132 exit the disk1
+at time: 8071, job 132 arrival cpu
+at time: 8071, job 5 arrvial the disk1
+at time: 8073, job 200 arr the disk2
+at time: 8073, job 132 exit the cpu
+at time: 8073, job 132 exit the system
+at time: 8073, job 200 arrival cpu
+at time: 8073, job 119 arrvial the disk2
+at time: 8075, job 200 exit the cpu
+at time: 8084, job 419 arrival in the system
+at time: 8084, job 419 arrival cpu
+at time: 8088, job 419 exit the cpu
+at time: 8088, job 419 exit the system
+at time: 8098, job 5 exit the disk1
+at time: 8098, job 5 arrival cpu
+at time: 8098, job 5 arrvial the disk1
+at time: 8101, job 5 exit the cpu
+at time: 8103, job 119 arr the disk2
+at time: 8103, job 119 arrival cpu
+at time: 8103, job 119 arrvial the disk2
+at time: 8105, job 119 exit the cpu
+at time: 8105, job 119 exit the system
+at time: 8106, job 420 arrival in the system
+at time: 8106, job 420 arrival cpu
+at time: 8107, job 420 exit the cpu
+at time: 8107, job 420 exit the system
+at time: 8120, job 421 arrival in the system
+at time: 8120, job 421 arrival cpu
+at time: 8121, job 421 exit the cpu
+at time: 8129, job 119 arr the disk2
+at time: 8129, job 119 arrival cpu
+at time: 8129, job 57 arrvial the disk2
+at time: 8132, job 119 exit the cpu
+at time: 8138, job 5 exit the disk1
+at time: 8138, job 5 arrival cpu
+at time: 8138, job 118 arrvial the disk1
+at time: 8139, job 5 exit the cpu
+at time: 8140, job 422 arrival in the system
+at time: 8140, job 422 arrival cpu
+at time: 8144, job 422 exit the cpu
+at time: 8144, job 422 exit the system
+at time: 8157, job 423 arrival in the system
+at time: 8157, job 423 arrival cpu
+at time: 8159, job 423 exit the cpu
+at time: 8170, job 118 exit the disk1
+at time: 8170, job 118 arrival cpu
+at time: 8173, job 118 exit the cpu
+at time: 8173, job 118 arrvial the disk1
+at time: 8177, job 57 arr the disk2
+at time: 8177, job 57 arrival cpu
+at time: 8177, job 204 arrvial the disk2
+at time: 8180, job 424 arrival in the system
+at time: 8180, job 57 exit the cpu
+at time: 8180, job 199 arrival cpu
+at time: 8182, job 199 exit the cpu
+at time: 8209, job 425 arrival in the system
+at time: 8209, job 425 arrival cpu
+at time: 8211, job 118 exit the disk1
+at time: 8211, job 118 arrival cpu
+at time: 8211, job 133 arrvial the disk1
+at time: 8212, job 204 arr the disk2
+at time: 8212, job 425 exit the cpu
+at time: 8212, job 425 exit the system
+at time: 8212, job 118 exit the cpu
+at time: 8212, job 204 arrival cpu
+at time: 8212, job 204 arrvial the disk2
+at time: 8215, job 204 exit the cpu
+at time: 8227, job 426 arrival in the system
+at time: 8227, job 426 arrival cpu
+at time: 8228, job 52 exit the network
+at time: 8228, job 52 arrival cpu
+at time: 8228, job 58 arrival the net
+at time: 8231, job 426 exit the cpu
+at time: 8231, job 426 exit the system
+at time: 8232, job 52 exit the cpu
+at time: 8232, job 52 exit the system
+at time: 8240, job 204 arr the disk2
+at time: 8240, job 204 arrival cpu
+at time: 8240, job 204 arrvial the disk2
+at time: 8242, job 204 exit the cpu
+at time: 8242, job 204 exit the system
+at time: 8255, job 427 arrival in the system
+at time: 8255, job 427 arrival cpu
+at time: 8258, job 133 exit the disk1
+at time: 8258, job 133 arrival cpu
+at time: 8258, job 201 arrvial the disk1
+at time: 8259, job 427 exit the cpu
+at time: 8259, job 427 exit the system
+at time: 8259, job 133 exit the cpu
+at time: 8265, job 428 arrival in the system
+at time: 8265, job 428 arrival cpu
+at time: 8266, job 204 arr the disk2
+at time: 8266, job 428 exit the cpu
+at time: 8266, job 204 arrival cpu
+at time: 8266, job 3 arrvial the disk2
+at time: 8270, job 204 exit the cpu
+at time: 8270, job 204 exit the system
+at time: 8286, job 201 exit the disk1
+at time: 8286, job 201 arrival cpu
+at time: 8290, job 201 exit the cpu
+at time: 8290, job 201 exit the system
+at time: 8291, job 429 arrival in the system
+at time: 8291, job 429 arrival cpu
+at time: 8295, job 429 exit the cpu
+at time: 8295, job 429 exit the system
+at time: 8304, job 3 arr the disk2
+at time: 8304, job 3 arrival cpu
+at time: 8306, job 430 arrival in the system
+at time: 8308, job 3 exit the cpu
+at time: 8308, job 199 arrival cpu
+at time: 8308, job 3 arrvial the disk1
+at time: 8309, job 199 exit the cpu
+at time: 8309, job 199 exit the system
+at time: 8323, job 431 arrival in the system
+at time: 8323, job 431 arrival cpu
+at time: 8324, job 431 exit the cpu
+at time: 8340, job 432 arrival in the system
+at time: 8340, job 432 arrival cpu
+at time: 8344, job 432 exit the cpu
+at time: 8344, job 432 arrvial the disk2
+at time: 8356, job 3 exit the disk1
+at time: 8356, job 3 arrival cpu
+at time: 8359, job 3 exit the cpu
+at time: 8359, job 3 arrvial the disk1
+at time: 8364, job 433 arrival in the system
+at time: 8364, job 433 arrival cpu
+at time: 8365, job 433 exit the cpu
+at time: 8365, job 433 exit the system
+at time: 8366, job 432 arr the disk2
+at time: 8366, job 432 arrival cpu
+at time: 8368, job 432 exit the cpu
+at time: 8380, job 434 arrival in the system
+at time: 8380, job 434 arrival cpu
+at time: 8383, job 434 exit the cpu
+at time: 8383, job 434 exit the system
+at time: 8403, job 3 exit the disk1
+at time: 8403, job 3 arrival cpu
+at time: 8404, job 3 exit the cpu
+at time: 8404, job 3 exit the system
+at time: 8408, job 435 arrival in the system
+at time: 8408, job 435 arrival cpu
+at time: 8411, job 435 exit the cpu
+at time: 8411, job 435 exit the system
+at time: 8425, job 436 arrival in the system
+at time: 8425, job 436 arrival cpu
+at time: 8428, job 436 exit the cpu
+at time: 8453, job 437 arrival in the system
+at time: 8453, job 437 arrival cpu
+at time: 8454, job 437 exit the cpu
+at time: 8454, job 437 arrvial the disk1
+at time: 8480, job 437 exit the disk1
+at time: 8480, job 437 arrival cpu
+at time: 8481, job 438 arrival in the system
+at time: 8481, job 437 exit the cpu
+at time: 8481, job 203 arrival cpu
+at time: 8481, job 437 arrvial the disk1
+at time: 8484, job 203 exit the cpu
+at time: 8484, job 203 exit the system
+at time: 8491, job 439 arrival in the system
+at time: 8491, job 439 arrival cpu
+at time: 8495, job 439 exit the cpu
+at time: 8495, job 439 arrvial the disk2
+at time: 8498, job 58 exit the network
+at time: 8498, job 58 arrival cpu
+at time: 8498, job 20 arrival the net
+at time: 8502, job 58 exit the cpu
+at time: 8503, job 440 arrival in the system
+at time: 8503, job 440 arrival cpu
+at time: 8504, job 440 exit the cpu
+at time: 8505, job 437 exit the disk1
+at time: 8505, job 437 arrival cpu
+at time: 8509, job 437 exit the cpu
+at time: 8529, job 439 arr the disk2
+at time: 8529, job 439 arrival cpu
+at time: 8530, job 441 arrival in the system
+at time: 8530, job 439 exit the cpu
+at time: 8530, job 119 arrival cpu
+at time: 8530, job 439 arrvial the disk1
+at time: 8534, job 119 exit the cpu
+at time: 8543, job 442 arrival in the system
+at time: 8543, job 442 arrival cpu
+at time: 8544, job 442 exit the cpu
+at time: 8544, job 442 arrvial the disk2
+at time: 8555, job 443 arrival in the system
+at time: 8555, job 443 arrival cpu
+at time: 8556, job 443 exit the cpu
+at time: 8564, job 442 arr the disk2
+at time: 8564, job 442 arrival cpu
+at time: 8566, job 442 exit the cpu
+at time: 8567, job 439 exit the disk1
+at time: 8567, job 439 arrival cpu
+at time: 8569, job 439 exit the cpu
+at time: 8569, job 439 arrvial the disk1
+at time: 8573, job 444 arrival in the system
+at time: 8573, job 444 arrival cpu
+at time: 8575, job 444 exit the cpu
+at time: 8590, job 445 arrival in the system
+at time: 8590, job 445 arrival cpu
+at time: 8594, job 445 exit the cpu
+at time: 8594, job 445 arrvial the disk2
+at time: 8603, job 446 arrival in the system
+at time: 8603, job 446 arrival cpu
+at time: 8606, job 446 exit the cpu
+at time: 8612, job 439 exit the disk1
+at time: 8612, job 439 arrival cpu
+at time: 8614, job 445 arr the disk2
+at time: 8614, job 439 exit the cpu
+at time: 8614, job 445 arrival cpu
+at time: 8614, job 3 arrvial the disk2
+at time: 8614, job 439 arrvial the disk1
+at time: 8615, job 447 arrival in the system
+at time: 8615, job 447 arrival cpu
+at time: 8616, job 445 exit the cpu
+at time: 8617, job 447 exit the cpu
+at time: 8629, job 448 arrival in the system
+at time: 8629, job 448 arrival cpu
+at time: 8632, job 448 exit the cpu
+at time: 8642, job 439 exit the disk1
+at time: 8642, job 439 arrival cpu
+at time: 8642, job 201 arrvial the disk1
+at time: 8646, job 439 exit the cpu
+at time: 8646, job 439 exit the system
+at time: 8655, job 3 arr the disk2
+at time: 8655, job 3 arrival cpu
+at time: 8655, job 3 arrvial the disk2
+at time: 8657, job 3 exit the cpu
+at time: 8658, job 449 arrival in the system
+at time: 8658, job 449 arrival cpu
+at time: 8662, job 449 exit the cpu
+at time: 8662, job 449 exit the system
+at time: 8678, job 201 exit the disk1
+at time: 8678, job 450 arrival in the system
+at time: 8678, job 201 arrival cpu
+at time: 8679, job 201 exit the cpu
+at time: 8679, job 119 arrival cpu
+at time: 8679, job 201 arrvial the disk1
+at time: 8681, job 119 exit the cpu
+at time: 8700, job 3 arr the disk2
+at time: 8700, job 3 arrival cpu
+at time: 8700, job 3 arrvial the disk2
+at time: 8704, job 3 exit the cpu
+at time: 8705, job 451 arrival in the system
+at time: 8705, job 451 arrival cpu
+at time: 8709, job 451 exit the cpu
+at time: 8709, job 451 exit the system
+at time: 8721, job 201 exit the disk1
+at time: 8721, job 201 arrival cpu
+at time: 8721, job 202 arrvial the disk1
+at time: 8725, job 201 exit the cpu
+at time: 8726, job 3 arr the disk2
+at time: 8726, job 3 arrival cpu
+at time: 8726, job 3 arrvial the disk2
+at time: 8729, job 452 arrival in the system
+at time: 8730, job 3 exit the cpu
+at time: 8730, job 119 arrival cpu
+at time: 8732, job 119 exit the cpu
+at time: 8732, job 119 exit the system
+at time: 8748, job 202 exit the disk1
+at time: 8748, job 202 arrival cpu
+at time: 8751, job 453 arrival in the system
+at time: 8751, job 202 exit the cpu
+at time: 8751, job 202 exit the system
+at time: 8751, job 207 arrival cpu
+at time: 8752, job 207 exit the cpu
+at time: 8752, job 207 exit the system
+at time: 8760, job 3 arr the disk2
+at time: 8760, job 3 arrival cpu
+at time: 8761, job 3 exit the cpu
+at time: 8761, job 3 exit the system
+at time: 8765, job 454 arrival in the system
+at time: 8765, job 454 arrival cpu
+at time: 8769, job 454 exit the cpu
+at time: 8769, job 454 exit the system
+at time: 8779, job 455 arrival in the system
+at time: 8779, job 455 arrival cpu
+at time: 8780, job 455 exit the cpu
+at time: 8780, job 455 exit the system
+at time: 8790, job 456 arrival in the system
+at time: 8790, job 456 arrival cpu
+at time: 8791, job 456 exit the cpu
+at time: 8791, job 456 exit the system
+at time: 8806, job 457 arrival in the system
+at time: 8806, job 457 arrival cpu
+at time: 8809, job 457 exit the cpu
+at time: 8826, job 458 arrival in the system
+at time: 8826, job 458 arrival cpu
+at time: 8828, job 458 exit the cpu
+at time: 8852, job 459 arrival in the system
+at time: 8852, job 459 arrival cpu
+at time: 8855, job 459 exit the cpu
+at time: 8855, job 459 arrvial the disk1
+at time: 8873, job 460 arrival in the system
+at time: 8873, job 460 arrival cpu
+at time: 8874, job 460 exit the cpu
+at time: 8874, job 460 arrvial the disk2
+at time: 8895, job 461 arrival in the system
+at time: 8895, job 461 arrival cpu
+at time: 8897, job 459 exit the disk1
+at time: 8897, job 459 arrival cpu
+at time: 8898, job 461 exit the cpu
+at time: 8898, job 461 arrvial the disk1
+at time: 8899, job 459 exit the cpu
+at time: 8899, job 459 exit the system
+at time: 8908, job 462 arrival in the system
+at time: 8908, job 462 arrival cpu
+at time: 8910, job 462 exit the cpu
+at time: 8911, job 460 arr the disk2
+at time: 8911, job 460 arrival cpu
+at time: 8911, job 121 arrvial the disk2
+at time: 8912, job 460 exit the cpu
+at time: 8913, job 20 exit the network
+at time: 8913, job 20 arrival cpu
+at time: 8913, job 3 arrival the net
+at time: 8914, job 20 exit the cpu
+at time: 8914, job 20 exit the system
+at time: 8928, job 461 exit the disk1
+at time: 8928, job 461 arrival cpu
+at time: 8929, job 461 exit the cpu
+at time: 8930, job 463 arrival in the system
+at time: 8930, job 463 arrival cpu
+at time: 8933, job 463 exit the cpu
+at time: 8933, job 463 arrvial the disk1
+at time: 8938, job 121 arr the disk2
+at time: 8938, job 121 arrival cpu
+at time: 8938, job 17 arrvial the disk2
+at time: 8942, job 121 exit the cpu
+at time: 8942, job 121 exit the system
+at time: 8953, job 464 arrival in the system
+at time: 8953, job 464 arrival cpu
+at time: 8956, job 464 exit the cpu
+at time: 8956, job 464 exit the system
+at time: 8964, job 463 exit the disk1
+at time: 8964, job 463 arrival cpu
+at time: 8965, job 465 arrival in the system
+at time: 8967, job 463 exit the cpu
+at time: 8967, job 79 arrival cpu
+at time: 8967, job 463 arrvial the disk1
+at time: 8968, job 79 exit the cpu
+at time: 8968, job 79 exit the system
+at time: 8982, job 17 arr the disk2
+at time: 8982, job 17 arrival cpu
+at time: 8984, job 17 exit the cpu
+at time: 8984, job 17 exit the system
+at time: 8989, job 463 exit the disk1
+at time: 8989, job 463 arrival cpu
+at time: 8993, job 463 exit the cpu
+at time: 8993, job 463 exit the system
+at time: 8994, job 466 arrival in the system
+at time: 8994, job 466 arrival cpu
+at time: 8995, job 466 exit the cpu
+at time: 8995, job 466 arrvial the disk1
+at time: 9018, job 467 arrival in the system
+at time: 9018, job 467 arrival cpu
+at time: 9019, job 467 exit the cpu
+at time: 9019, job 467 arrvial the disk2
+at time: 9021, job 466 exit the disk1
+at time: 9021, job 466 arrival cpu
+at time: 9025, job 466 exit the cpu
+at time: 9038, job 468 arrival in the system
+at time: 9038, job 468 arrival cpu
+at time: 9039, job 467 arr the disk2
+at time: 9039, job 468 exit the cpu
+at time: 9039, job 467 arrival cpu
+at time: 9039, job 468 arrvial the disk1
+at time: 9043, job 467 exit the cpu
+at time: 9043, job 467 exit the system
+at time: 9058, job 469 arrival in the system
+at time: 9058, job 469 arrival cpu
+at time: 9060, job 469 exit the cpu
+at time: 9060, job 469 arrvial the disk2
+at time: 9068, job 468 exit the disk1
+at time: 9068, job 468 arrival cpu
+at time: 9072, job 468 exit the cpu
+at time: 9072, job 468 arrvial the disk1
+at time: 9081, job 470 arrival in the system
+at time: 9081, job 470 arrival cpu
+at time: 9082, job 470 exit the cpu
+at time: 9082, job 470 exit the system
+at time: 9093, job 471 arrival in the system
+at time: 9093, job 471 arrival cpu
+at time: 9096, job 471 exit the cpu
+at time: 9098, job 469 arr the disk2
+at time: 9098, job 469 arrival cpu
+at time: 9098, job 17 arrvial the disk2
+at time: 9101, job 469 exit the cpu
+at time: 9119, job 468 exit the disk1
+at time: 9119, job 468 arrival cpu
+at time: 9122, job 472 arrival in the system
+at time: 9123, job 468 exit the cpu
+at time: 9123, job 79 arrival cpu
+at time: 9125, job 79 exit the cpu
+at time: 9144, job 17 arr the disk2
+at time: 9144, job 17 arrival cpu
+at time: 9146, job 473 arrival in the system
+at time: 9147, job 17 exit the cpu
+at time: 9147, job 79 arrival cpu
+at time: 9147, job 17 arrvial the disk1
+at time: 9149, job 79 exit the cpu
+at time: 9149, job 79 arrvial the disk2
+at time: 9165, job 474 arrival in the system
+at time: 9165, job 474 arrival cpu
+at time: 9168, job 474 exit the cpu
+at time: 9172, job 79 arr the disk2
+at time: 9172, job 79 arrival cpu
+at time: 9172, job 213 arrvial the disk2
+at time: 9173, job 79 exit the cpu
+at time: 9178, job 17 exit the disk1
+at time: 9178, job 17 arrival cpu
+at time: 9179, job 17 exit the cpu
+at time: 9179, job 17 arrvial the disk1
+at time: 9185, job 475 arrival in the system
+at time: 9185, job 475 arrival cpu
+at time: 9186, job 475 exit the cpu
+at time: 9198, job 476 arrival in the system
+at time: 9198, job 476 arrival cpu
+at time: 9202, job 476 exit the cpu
+at time: 9205, job 213 arr the disk2
+at time: 9205, job 213 arrival cpu
+at time: 9205, job 213 arrvial the disk2
+at time: 9209, job 213 exit the cpu
+at time: 9211, job 17 exit the disk1
+at time: 9211, job 17 arrival cpu
+at time: 9212, job 17 exit the cpu
+at time: 9220, job 477 arrival in the system
+at time: 9220, job 477 arrival cpu
+at time: 9221, job 477 exit the cpu
+at time: 9221, job 477 arrvial the disk1
+at time: 9231, job 213 arr the disk2
+at time: 9231, job 213 arrival cpu
+at time: 9235, job 213 exit the cpu
+at time: 9235, job 213 arrvial the disk2
+at time: 9241, job 478 arrival in the system
+at time: 9241, job 478 arrival cpu
+at time: 9245, job 478 exit the cpu
+at time: 9251, job 479 arrival in the system
+at time: 9251, job 479 arrival cpu
+at time: 9253, job 479 exit the cpu
+at time: 9258, job 477 exit the disk1
+at time: 9258, job 477 arrival cpu
+at time: 9262, job 477 exit the cpu
+at time: 9262, job 477 arrvial the disk1
+at time: 9273, job 213 arr the disk2
+at time: 9273, job 213 arrival cpu
+at time: 9273, job 122 arrvial the disk2
+at time: 9274, job 480 arrival in the system
+at time: 9276, job 213 exit the cpu
+at time: 9276, job 213 exit the system
+at time: 9276, job 211 arrival cpu
+at time: 9277, job 211 exit the cpu
+at time: 9302, job 481 arrival in the system
+at time: 9302, job 481 arrival cpu
+at time: 9303, job 481 exit the cpu
+at time: 9303, job 481 exit the system
+at time: 9304, job 477 exit the disk1
+at time: 9304, job 477 arrival cpu
+at time: 9306, job 477 exit the cpu
+at time: 9306, job 477 exit the system
+at time: 9320, job 122 arr the disk2
+at time: 9320, job 122 arrival cpu
+at time: 9321, job 122 exit the cpu
+at time: 9321, job 122 arrvial the disk1
+at time: 9323, job 3 exit the network
+at time: 9323, job 482 arrival in the system
+at time: 9323, job 3 arrival cpu
+at time: 9323, job 3 arrival the net
+at time: 9325, job 3 exit the cpu
+at time: 9325, job 211 arrival cpu
+at time: 9325, job 3 arrvial the disk2
+at time: 9328, job 211 exit the cpu
+at time: 9350, job 483 arrival in the system
+at time: 9350, job 483 arrival cpu
+at time: 9352, job 3 arr the disk2
+at time: 9352, job 3 arrival cpu
+at time: 9352, job 122 arrvial the disk2
+at time: 9354, job 483 exit the cpu
+at time: 9354, job 483 exit the system
+at time: 9355, job 3 exit the cpu
+at time: 9359, job 122 exit the disk1
+at time: 9359, job 122 arrival cpu
+at time: 9360, job 484 arrival in the system
+at time: 9360, job 122 exit the cpu
+at time: 9360, job 122 exit the system
+at time: 9360, job 212 arrival cpu
+at time: 9361, job 212 exit the cpu
+at time: 9361, job 212 arrvial the disk1
+at time: 9374, job 485 arrival in the system
+at time: 9374, job 485 arrival cpu
+at time: 9376, job 485 exit the cpu
+at time: 9376, job 485 exit the system
+at time: 9397, job 212 exit the disk1
+at time: 9397, job 212 arrival cpu
+at time: 9400, job 212 exit the cpu
+at time: 9400, job 212 arrvial the disk1
+at time: 9401, job 122 arr the disk2
+at time: 9401, job 122 arrival cpu
+at time: 9401, job 216 arrvial the disk2
+at time: 9402, job 122 exit the cpu
+at time: 9403, job 486 arrival in the system
+at time: 9403, job 486 arrival cpu
+at time: 9404, job 486 exit the cpu
+at time: 9404, job 486 exit the system
+at time: 9422, job 487 arrival in the system
+at time: 9422, job 487 arrival cpu
+at time: 9424, job 216 arr the disk2
+at time: 9424, job 487 exit the cpu
+at time: 9424, job 487 exit the system
+at time: 9424, job 216 arrival cpu
+at time: 9427, job 216 exit the cpu
+at time: 9427, job 216 arrvial the disk2
+at time: 9431, job 212 exit the disk1
+at time: 9431, job 212 arrival cpu
+at time: 9433, job 212 exit the cpu
+at time: 9433, job 212 arrvial the disk1
+at time: 9450, job 488 arrival in the system
+at time: 9450, job 216 arr the disk2
+at time: 9450, job 488 arrival cpu
+at time: 9450, job 216 arrival cpu
+at time: 9451, job 488 exit the cpu
+at time: 9451, job 488 arrvial the disk2
+at time: 9454, job 216 exit the cpu
+at time: 9455, job 212 exit the disk1
+at time: 9455, job 212 arrival cpu
+at time: 9459, job 212 exit the cpu
+at time: 9459, job 212 exit the system
+at time: 9467, job 489 arrival in the system
+at time: 9467, job 489 arrival cpu
+at time: 9470, job 489 exit the cpu
+at time: 9470, job 489 arrvial the disk1
+at time: 9487, job 488 arr the disk2
+at time: 9487, job 488 arrival cpu
+at time: 9489, job 488 exit the cpu
+at time: 9495, job 490 arrival in the system
+at time: 9495, job 490 arrival cpu
+at time: 9496, job 490 exit the cpu
+at time: 9496, job 490 arrvial the disk2
+at time: 9497, job 489 exit the disk1
+at time: 9497, job 489 arrival cpu
+at time: 9501, job 489 exit the cpu
+at time: 9501, job 489 arrvial the disk1
+at time: 9524, job 491 arrival in the system
+at time: 9524, job 491 arrival cpu
+at time: 9527, job 491 exit the cpu
+at time: 9528, job 490 arr the disk2
+at time: 9528, job 490 arrival cpu
+at time: 9528, job 216 arrvial the disk2
+at time: 9531, job 490 exit the cpu
+at time: 9536, job 492 arrival in the system
+at time: 9536, job 492 arrival cpu
+at time: 9538, job 492 exit the cpu
+at time: 9538, job 492 exit the system
+at time: 9547, job 489 exit the disk1
+at time: 9547, job 489 arrival cpu
+at time: 9551, job 489 exit the cpu
+at time: 9551, job 489 arrvial the disk1
+at time: 9559, job 493 arrival in the system
+at time: 9559, job 493 arrival cpu
+at time: 9562, job 493 exit the cpu
+at time: 9570, job 216 arr the disk2
+at time: 9570, job 216 arrival cpu
+at time: 9570, job 216 arrvial the disk2
+at time: 9573, job 216 exit the cpu
+at time: 9584, job 494 arrival in the system
+at time: 9584, job 494 arrival cpu
+at time: 9585, job 489 exit the disk1
+at time: 9585, job 494 exit the cpu
+at time: 9585, job 489 arrival cpu
+at time: 9585, job 202 arrvial the disk1
+at time: 9589, job 489 exit the cpu
+at time: 9589, job 489 exit the system
+at time: 9598, job 495 arrival in the system
+at time: 9598, job 495 arrival cpu
+at time: 9600, job 495 exit the cpu
+at time: 9608, job 216 arr the disk2
+at time: 9608, job 216 arrival cpu
+at time: 9608, job 143 arrvial the disk2
+at time: 9612, job 216 exit the cpu
+at time: 9620, job 202 exit the disk1
+at time: 9620, job 202 arrival cpu
+at time: 9620, job 133 arrvial the disk1
+at time: 9622, job 496 arrival in the system
+at time: 9624, job 202 exit the cpu
+at time: 9624, job 212 arrival cpu
+at time: 9626, job 212 exit the cpu
+at time: 9638, job 497 arrival in the system
+at time: 9638, job 497 arrival cpu
+at time: 9641, job 497 exit the cpu
+at time: 9641, job 497 exit the system
+at time: 9643, job 143 arr the disk2
+at time: 9643, job 143 arrival cpu
+at time: 9643, job 143 arrvial the disk2
+at time: 9646, job 143 exit the cpu
+at time: 9651, job 498 arrival in the system
+at time: 9651, job 498 arrival cpu
+at time: 9653, job 498 exit the cpu
+at time: 9653, job 498 exit the system
+at time: 9657, job 133 exit the disk1
+at time: 9657, job 133 arrival cpu
+at time: 9657, job 133 arrvial the disk1
+at time: 9661, job 133 exit the cpu
+at time: 9661, job 133 exit the system
+at time: 9673, job 143 arr the disk2
+at time: 9673, job 499 arrival in the system
+at time: 9673, job 143 arrival cpu
+at time: 9673, job 143 arrvial the disk2
+at time: 9674, job 143 exit the cpu
+at time: 9674, job 214 arrival cpu
+at time: 9678, job 133 exit the disk1
+at time: 9678, job 214 exit the cpu
+at time: 9678, job 133 arrival cpu
+at time: 9680, job 133 exit the cpu
+at time: 9680, job 133 arrvial the disk1
+at time: 9698, job 500 arrival in the system
+at time: 9698, job 500 arrival cpu
+at time: 9700, job 500 exit the cpu
+at time: 9710, job 501 arrival in the system
+at time: 9710, job 501 arrival cpu
+at time: 9711, job 501 exit the cpu
+at time: 9716, job 133 exit the disk1
+at time: 9716, job 133 arrival cpu
+at time: 9716, job 205 arrvial the disk1
+at time: 9717, job 133 exit the cpu
+at time: 9722, job 143 arr the disk2
+at time: 9722, job 143 arrival cpu
+at time: 9722, job 70 arrvial the disk2
+at time: 9725, job 143 exit the cpu
+at time: 9730, job 502 arrival in the system
+at time: 9730, job 502 arrival cpu
+at time: 9734, job 502 exit the cpu
+at time: 9741, job 503 arrival in the system
+at time: 9741, job 503 arrival cpu
+at time: 9742, job 503 exit the cpu
+at time: 9758, job 205 exit the disk1
+at time: 9758, job 205 arrival cpu
+at time: 9758, job 205 arrvial the disk1
+at time: 9759, job 70 arr the disk2
+at time: 9759, job 504 arrival in the system
+at time: 9759, job 70 arrival cpu
+at time: 9759, job 70 arrvial the disk2
+at time: 9760, job 205 exit the cpu
+at time: 9760, job 205 exit the system
+at time: 9760, job 214 arrival cpu
+at time: 9761, job 70 exit the cpu
+at time: 9761, job 214 exit the cpu
+at time: 9770, job 505 arrival in the system
+at time: 9770, job 505 arrival cpu
+at time: 9771, job 505 exit the cpu
+at time: 9771, job 505 exit the system
+at time: 9783, job 3 exit the network
+at time: 9783, job 3 arrival cpu
+at time: 9783, job 74 arrival the net
+at time: 9787, job 3 exit the cpu
+at time: 9787, job 3 exit the system
+at time: 9793, job 506 arrival in the system
+at time: 9793, job 506 arrival cpu
+at time: 9794, job 506 exit the cpu
+at time: 9794, job 506 exit the system
+at time: 9802, job 70 arr the disk2
+at time: 9802, job 70 arrival cpu
+at time: 9802, job 70 arrvial the disk2
+at time: 9803, job 205 exit the disk1
+at time: 9803, job 70 exit the cpu
+at time: 9803, job 205 arrival cpu
+at time: 9803, job 205 arrvial the disk1
+at time: 9804, job 205 exit the cpu
+at time: 9813, job 507 arrival in the system
+at time: 9813, job 507 arrival cpu
+at time: 9817, job 507 exit the cpu
+at time: 9822, job 70 arr the disk2
+at time: 9822, job 70 arrival cpu
+at time: 9822, job 225 arrvial the disk2
+at time: 9826, job 70 exit the cpu
+at time: 9826, job 70 exit the system
+at time: 9834, job 508 arrival in the system
+at time: 9834, job 508 arrival cpu
+at time: 9835, job 508 exit the cpu
+at time: 9845, job 509 arrival in the system
+at time: 9845, job 509 arrival cpu
+at time: 9847, job 509 exit the cpu
+at time: 9851, job 205 exit the disk1
+at time: 9851, job 225 arr the disk2
+at time: 9851, job 205 arrival cpu
+at time: 9851, job 120 arrvial the disk1
+at time: 9851, job 225 arrival cpu
+at time: 9851, job 225 arrvial the disk2
+at time: 9852, job 225 exit the cpu
+at time: 9855, job 205 exit the cpu
+at time: 9869, job 510 arrival in the system
+at time: 9869, job 510 arrival cpu
+at time: 9872, job 510 exit the cpu
+at time: 9873, job 120 exit the disk1
+at time: 9873, job 120 arrival cpu
+at time: 9873, job 120 arrvial the disk1
+at time: 9875, job 120 exit the cpu
+at time: 9888, job 225 arr the disk2
+at time: 9888, job 225 arrival cpu
+at time: 9888, job 229 arrvial the disk2
+at time: 9889, job 511 arrival in the system
+at time: 9890, job 225 exit the cpu
+at time: 9890, job 218 arrival cpu
+at time: 9892, job 218 exit the cpu
+at time: 9892, job 218 exit the system
+at time: 9899, job 120 exit the disk1
+at time: 9899, job 120 arrival cpu
+at time: 9899, job 209 arrvial the disk1
+at time: 9903, job 120 exit the cpu
+at time: 9903, job 120 exit the system
+at time: 9917, job 512 arrival in the system
+at time: 9917, job 512 arrival cpu
+at time: 9919, job 209 exit the disk1
+at time: 9919, job 209 arrival cpu
+at time: 9919, job 209 arrvial the disk1
+at time: 9921, job 512 exit the cpu
+at time: 9921, job 512 exit the system
+at time: 9922, job 209 exit the cpu
+at time: 9934, job 229 arr the disk2
+at time: 9934, job 229 arrival cpu
+at time: 9934, job 229 arrvial the disk2
+at time: 9938, job 229 exit the cpu
+at time: 9938, job 229 exit the system
+at time: 9945, job 513 arrival in the system
+at time: 9945, job 513 arrival cpu
+at time: 9947, job 513 exit the cpu
+at time: 9947, job 513 exit the system
+at time: 9956, job 209 exit the disk1
+at time: 9956, job 229 arr the disk2
+at time: 9956, job 209 arrival cpu
+at time: 9956, job 79 arrvial the disk1
+at time: 9956, job 229 arrival cpu
+at time: 9956, job 232 arrvial the disk2
+at time: 9958, job 209 exit the cpu
+at time: 9958, job 209 exit the system
+at time: 9958, job 229 exit the cpu
+at time: 9958, job 229 exit the system
+at time: 9960, job 514 arrival in the system
+at time: 9960, job 514 arrival cpu
+at time: 9961, job 514 exit the cpu
+at time: 9977, job 232 arr the disk2
+at time: 9977, job 232 arrival cpu
+at time: 9977, job 232 arrvial the disk2
+at time: 9979, job 232 exit the cpu
+at time: 9979, job 232 exit the system
+at time: 9983, job 79 exit the disk1
+at time: 9983, job 79 arrival cpu
+at time: 9987, job 79 exit the cpu
+at time: 9987, job 79 arrvial the disk1
+at time: 9989, job 515 arrival in the system
+at time: 9989, job 515 arrival cpu
+at time: 9990, job 515 exit the cpu
+at time: 9990, job 515 exit the system
+at time: 10005, job 232 arr the disk2

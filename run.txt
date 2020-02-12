@@ -1,0 +1,172 @@
+first run config:
+SEED 1
+itime 0
+ftime 1000
+arrmin 20
+arrmax 50
+quit 0.2
+netprob 0.3
+cpumin 10
+cpumax 20
+disk1min 30
+disk1max 50
+disk2min 30
+disk2max 50
+networkmin 60
+networkmax 80
+ 
+stat:
+-----------Queues---------
+Average size of CPU Queue: 4.335834 
+Max size of CPU Queue: 5 
+Average size of DISK 1 Queue: 0.005859
+Max size of DISK 1 Queue: 1
+Average size of DISK 2 Queue: 0.499039
+Max size of DISK 2 Queue: 1
+ Average size of Event Queue: 4.492130
+Max size of Event Queue: 7
+Average size of Network Queue: 7.599121
+Max size of Network Queue: 8
+
+-----------Utilization---------
+Utilization of CPU: 1.110000
+ Utilization of Disk 1: 0.704000
+ Utilization of Disk 2: 0.735000
+Utilization of Network: 0.953000
+
+-----------Resonse Time---------
+CPU max response time: 17
+DISK 1 max response time: 46
+DISK 2 max response time: 46
+NETWORK max response time: 74
+
+CPU average response time: 14.476012
+DISK 1 average response time: 41.981819
+DISK 2 average response time: 40.832222
+NETWORK average response time: 72.274292
+
+-----------Throughput---------
+Throughput of CPU: 0.073000 Jobs per Unit of Time
+Throughput of DISK 1: 0.017000 Jobs per Unit of Time
+Throughput of DISK 2: 0.018000 Jobs per Unit of Time
+Throughput of NETWORK: 0.014000 Jobs per Unit of Time
+
+conclution:
+every number is in range and expect, the excution time of the cpu i think is to slow; finish time small becaus need 
+check every log, 10k is to big for me. Also net probility is to high
+
+config for run 2:
+SEED 114514
+itime 0
+ftime 10000
+arrmin 20
+arrmax 50
+quit 0.1
+netprob 0.04
+cpumin 1
+cpumax 5
+disk1min 20
+disk1max 50
+disk2min 20
+disk2max 50
+networkmin 200
+networkmax 500
+
+stat:
+-----------Queues---------
+Average size of CPU Queue: 0.315199 
+Max size of CPU Queue: 2 
+Average size of DISK 1 Queue: 91.354345
+Max size of DISK 1 Queue: 92
+Average size of DISK 2 Queue: 91.456929
+Max size of DISK 2 Queue: 93
+ Average size of Event Queue: 4.716674
+Max size of Event Queue: 7
+Average size of Network Queue: 8.092857
+Max size of Network Queue: 9
+
+-----------Utilization---------
+Utilization of CPU: 0.229800
+ Utilization of Disk 1: 1.001500
+ Utilization of Disk 2: 0.999200
+Utilization of Network: 1.017200
+
+-----------Repsonse Time---------
+CPU max response time: 3
+DISK 1 max response time: 46
+DISK 2 max response time: 45
+NETWORK max response time: 429
+
+CPU average response time: 2.686312
+DISK 1 average response time: 37.258082
+DISK 2 average response time: 40.326121
+NETWORK average response time: 344.800486
+
+-----------Throughput---------
+Throughput of CPU: 0.089600 Jobs per Unit of Time
+Throughput of DISK 1: 0.029000 Jobs per Unit of Time
+Throughput of DISK 2: 0.029100 Jobs per Unit of Time
+Throughput of NETWORK: 0.003200 Jobs per Unit of Time
+
+conclution:
+
+speed of cpu is too quick, becaus the quit probility is low which casue job stuck at disk section response time is in range.
+
+run 3:
+SEED 1919810
+itime 0
+ftime 10000
+arrmin 10
+arrmax 30
+quit 0.3
+netprob 0.2
+cpumin 1
+cpumax 5
+disk1min 20
+disk1max 50
+disk2min 20
+disk2max 50
+networkmin 200
+networkmax 500
+
+stat:
+-----------Queues---------
+Average size of CPU Queue: 0.031503 
+Max size of CPU Queue: 3 
+Average size of DISK 1 Queue: 0.619995
+Max size of DISK 1 Queue: 5
+Average size of DISK 2 Queue: 0.655246
+Max size of DISK 2 Queue: 6
+ Average size of Event Queue: 4.189323
+Max size of Event Queue: 7
+Average size of Network Queue: 164.438157
+Max size of Network Queue: 174
+
+-----------Utilization---------
+Utilization of CPU: 0.263100
+ Utilization of Disk 1: 0.904800
+ Utilization of Disk 2: 0.867600
+Utilization of Network: 1.009700
+
+-----------Repsonse Time---------
+CPU max response time: 3
+DISK 1 max response time: 44
+DISK 2 max response time: 45
+NETWORK max response time: 425
+
+CPU average response time: 1.950226
+DISK 1 average response time: 37.477097
+DISK 2 average response time: 26.961053
+NETWORK average response time: 397.606582
+
+-----------Throughput---------
+Throughput of CPU: 0.105400 Jobs per Unit of Time
+Throughput of DISK 1: 0.026400 Jobs per Unit of Time
+Throughput of DISK 2: 0.025000 Jobs per Unit of Time
+Throughput of NETWORK: 0.002800 Jobs per Unit of Time
+
+conclution:
+
+this time the job come faster and quit probility is pretty high, also the high excution time for net casue job stuck in net Queue;
+which is expect; 
+
